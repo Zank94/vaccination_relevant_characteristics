@@ -20,7 +20,9 @@ jobs:
         with:
           ruby-version: 3.4.1
       - name: Build
-        run: ruby build.rb > ./build/index.html
+        run: |
+          mkdir -p ./build
+          ruby build.rb > build/index.html
       - name: Upload build artifacts
         uses: actions/upload-artifact@v3
         with:
