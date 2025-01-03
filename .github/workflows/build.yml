@@ -1,11 +1,12 @@
-name: Build
+name: Build and Deploy
+
 on:
   push:
     tags:        
       - '*' 
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -27,6 +28,7 @@ jobs:
         with:
           name: build-artifact
           path: ./build
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
