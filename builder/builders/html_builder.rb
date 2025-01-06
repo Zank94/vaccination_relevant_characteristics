@@ -10,9 +10,32 @@ class HtmlBuilder
     output << "<html>"
     output << HEAD
     output << '<body><div class="container"><h1>Conditions dictionary</h1>'
-    output << "<details><summary>Version: #{version}</summary>
-      Commit: #{info[:commit]}<br>
-    </details>"
+    output << "<table>
+      <tr>
+        <td><b>Version</b></td>
+        <td>#{version}</td>
+      </tr>
+      <tr>
+        <td><b>Id</td>
+        <td>#{info[:commit]}</b></td>
+      </tr>
+      <tr>
+        <td><b>Author</b></td>
+        <td>#{info[:author]}</td>
+      </tr>
+      <tr>
+        <td><b>Date</b></td>
+        <td>#{info[:date]}</td>
+      </tr>
+      <tr>
+        <td><b>Message</b></td>
+        <td>#{info[:message]}</td>
+      </tr>
+      <tr>
+        <td><b>Diff</b></td>
+        <td><a href=\"https://github.com/Syadem/vaccination_profile/commit/#{info[:commit]}\">github</a></td>
+      </tr>
+    </table>"
     conditions.each do |condition|
       output << "<details id='C-#{condition['id']}'>
   <summary>C-#{condition['id']} - #{condition['label']}</summary>
