@@ -1,0 +1,1846 @@
+en:
+  Vaccination consent:
+    C-870: "Refusal to vaccinate against covid 19 collected by the health professional"
+    C-869: "Consent to be vaccinated against covid 19 collected by the health professional"
+  General information:
+    IMC:
+      C-963: "Height"
+      C-962: "Weight"
+    Parenthood:
+      C-552: "Breastfeeding"
+      C-1087: "Pregnancy at risk"
+      H-1087: "Multiple pregnancy, with foetopathy or risk of premature delivery (e.g.
+        previous premature delivery, threat of premature delivery)."
+      C-1122: "Woman considering pregnancy"
+      C-51: "Adult likely to become a parent in the coming months or years"
+      H-51: "These are adults who may become parents in the coming months or years,
+        including through adoption. This question is asked in order to know if it
+        is necessary to apply the strategy of cocooning, consisting in protecting
+        the parents to avoid the contamination of the infants by the bacterium responsible
+        for the whooping cough, a very serious disease in the very small. It is also
+        a question of possibly recommending vaccination against chickenpox to future
+        mothers."
+      C-1032: "Date of delivery"
+      H-1032: "Indicate the date of the last delivery, if applicable."
+      C-1081: "Pregnancy start date"
+      H-1081: "The pregnancy start date is tied to the moment of fertilization. Typically,
+        a pregnancy begins about 15 days following the last menstrual period. The
+        information about pregnancy is crucial because it influences medical recommendations,
+        such as certain vaccinations that are advised for pregnant women (like those
+        for flu and whooping cough), while others are discouraged (especially those
+        involving live vaccines)."
+      C-1102: "Grossesse : préférence pour une immunisation anti-VRS de l'enfant à
+        sa naissance"
+      C-52: "Pregnancy - Date of last period"
+      H-52: "A current pregnancy may result in specific vaccine recommendations or
+        contraindications, depending on the disease to be prevented and the individual.
+        To obtain the date of the beginning of the pregnancy, add 14 days to the date
+        of the last menstrual period."
+    Other information:
+      C-911: "History of cardiac surgery"
+      C-1000: "Excessive alcohol use"
+      C-923: "Person not at risk of exposure to rabies"
+      H-923: "This includes a person who has begun pre-exposure vaccination before
+        traveling to a rabies-endemic area and is no longer exposed to rabies upon
+        return."
+      C-676: "Anti-aggregant treatment"
+      H-676: "Anti-platelet therapy may cause bleeding during the injection of the
+        vaccine. Medical advice is necessary."
+      C-637: "BCG vaccine scar"
+      H-637: "This scar is usually located behind the deltoid muscle, the usual site
+        of the intradermal injection of BCG. It shows that this vaccine, which allows
+        the development of an immune response against the Koch's bacillus (the bacillus
+        responsible for tuberculosis), has been administered. Consult your doctor
+        for more information."
+      C-394: "Known history of jaundice"
+      C-395: "Previous stay of more than one year in a country with high endemicity
+        for hepatitis A"
+      H-395: "Most countries with low hygiene levels are concerned (Africa, tropical
+        Asia, South America, Eastern Europe...), even in case of a long stay."
+  Profession:
+    Other professions:
+      C-1117: "Trade employees"
+      C-1115: "People having close professional contact with the elderly"
+      C-1120: "Other public sector jobs"
+      C-1121: "Close professional contact with an infant under 6 months of age"
+      C-1116: "People having close professional contact with chronic ill people"
+      C-860: "Profession in the food industry"
+      C-861: "Profession in the banking field"
+      C-999: "Person working in a sexual consumption place"
+    Education:
+      C-863: "Other profession in the field of education"
+      C-95: "National education professional in contact with children"
+      H-95: "Primary school teacher, teacher, guidance counselor, school psychologist,
+        educational counselor..."
+    Penitentiary Administration:
+      C-103: "Prison Supervisor"
+      H-103: "Only in case of exposure to biological agents (evaluation by the occupational
+        physician)."
+      C-263: "Works in an institution or service of the judicial protection of youth"
+      C-104: "Works in a correctional facility or probation department"
+      H-104: "Includes prison guards (you can check both this box and the Prison Guard
+        box) if this applies to you."
+    Sanitation - Environment:
+      C-99: "Wastewater treatment staff (including wastewater treatment plants)"
+      C-101: "Garbage collector"
+      C-100: "Drainer"
+    Catering - Laundry - Tattooing:
+      C-98: "Tattoo artist"
+      C-97: "Personnel involved in food preparation in collective catering"
+      C-606: "Works in a laundry linked to a prevention or care establishment"
+      C-96: "Works in a laundry"
+      H-96: "Decree of 15 March 1991 establishing the list of public or private prevention
+        or care establishments or organizations in which exposed personnel must be
+        vaccinated. Laundries are assimilated to the public or private prevention
+        or care establishments and organizations mentioned in article 1 of this decree,
+        insofar as they participate in the activity of the latter."
+    Funeral services:
+      C-94: "Employee in an undertaker's business, not linked to a prevention or care
+        establishment"
+      C-608: "Employee in an undertaker's business in connection with a prevention
+        or care establishment"
+      H-608: "Article 1 of http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000020375184
+        the decree of March 15, 1991 fixes the list of the establishments or public
+        or private organizations of prevention or care in which any person exposed
+        to risks of contamination must be immunized against the hepatitis B, the diphtheria,
+        the tetanus and the poliomyelitis when it exerts a professional activity.the
+        undertakers are assimilated to the establishments and organizations mentioned
+        in article 1, insofar as they take part in the activity of the latter."
+      C-262: "Employee in a company transporting bodies before burial, without any
+        link with a prevention or care establishment"
+      C-609: "Employee in a company transporting bodies before burial, in connection
+        with a prevention or care establishment"
+      H-609: "The article 1 of http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000020375184
+        the decree of March 15, 1991 fixes the list of the establishments or public
+        or private organizations of prevention or care in which any person exposed
+        to risks of contamination must be immunized against the hepatitis B, the diphtheria,
+        the tetanus and the poliomyelitis when it exerts a professional activity."
+      C-662: "Thanatopractor"
+      H-662: "The thanatopractor intervenes on the body of the deceased, at the request
+        of the family, for the realization of care that makes the dead person look
+        presentable. In France, approximately one death out of four would result in
+        the intervention of one of these technicians."
+    En rapport avec la santé ou le médico-social:
+      Student or in training:
+        Paramedical profession:
+          C-222: "Nursing student"
+          C-226: "Student Speech-Language Pathologist"
+          C-987: "Student dietician"
+          C-227: "Orthoptic student"
+          C-986: "Student pharmacy assistant, receiving patients"
+          C-216: "Student audio-prosthetist"
+          C-217: "Student paramedic"
+          H-217: "The ambulance driver carries out his activity within a private company
+            of medical transport or a health establishment.he ensures, on medical
+            prescription or in the event of medical emergency, the assumption of responsibility
+            and the transport of patients, of wounded, in vehicles of medical transport
+            adapted for reasons of care or diagnosis.this professional knows the state
+            of urgency of his patients. This professional knows the emergency state
+            of his patients. Indeed, he informs himself on the degree of gravity of
+            the patients and their types of wounds near the structure for which he
+            works: SAMU, hospital, Red Cross... He is with the service of the patients,
+            takes care of their comfort, installs them during the way and can even
+            intervene in the event of urgency to lavish the first aid. The ambulance
+            driver must take care of the maintenance of his vehicle and the sterilization
+            of the material. He can also assist the patient for the formalities of
+            entry and exit of the patients."
+          C-841: "Student stretcher bearer"
+          C-228: "Pedicure-podologue student"
+          C-220: "Student childcare assistant"
+          H-220: "The childcare assistant carries out awakening activities and care
+            aimed at the well-being, autonomy and development of the child. His/her
+            role is part of a global approach and takes into account the relational
+            dimension of care as well as communication with the family within the
+            framework of parental support. The childcare assistant participates in
+            the reception of children and the social integration of children with
+            disabilities, chronic illnesses or at risk of exclusion. The assistant
+            usually works in a multi-professional team and in health or social structures,
+            in collaboration with and under the responsibility of the nurse or the
+            childcare worker."
+          C-229: "Psychomotrician student"
+          C-230: "Biomedical analysis technician student"
+          H-230: "The medical biology analysis technician is responsible for carrying
+            out medical biology examinations that allow the physician to confirm a
+            diagnosis or detect a disease. Based on medical prescriptions, he/she
+            carries out the examinations: he/she looks for possible anomalies in the
+            blood or in body fluids taken by the doctor, takes blood samples, prepares
+            the instruments and products to be used. Once the examination has been
+            performed, he or she sends the results to the biologist in charge, who
+            is responsible for validating and interpreting them. They are also responsible
+            for maintaining and checking the equipment.The job can be carried out
+            in hospitals, clinics or in the city.In the hospital environment, this
+            professional sometimes has to provide therapeutic follow-up in relation
+            to the patients and the health care team and can intervene in very specialized
+            examinations.When working in a private laboratory in the city, the medical
+            biology analysis technician carries out various tasks: taking samples,
+            taking readings and forwarding the results. He/she carries out a multi-purpose
+            exercise that can cover several fields of medical biology: hematology,
+            biochemistry, microbiology, immunology..."
+          C-221: "Occupational therapy student"
+          C-225: "Student masseur-physiotherapist"
+          C-218: "Student caregiver"
+          H-218: "As part of a care team, the caregiver assists the nurse in daily
+            care activities. In collaboration with the nurse and under his/her responsibility,
+            the caregiver provides patients with hygiene and comfort care: toileting,
+            meals, bed making, reception, installation and transfer of patients...
+            He/she transmits his/her observations in writing and verbally to ensure
+            continuity of care. He/she participates in the realization of animations
+            for people admitted in follow-up care and rehabilitation centers. The
+            nursing assistant may be required to work at night, on weekends and on
+            public holidays. The profession of nursing assistant is practiced in hospitals
+            as well as in clinics."
+          C-657: "Dental assistant student"
+          H-657: "The mission of the dental assistant is to carry out cleaning and
+            sterilization operations. He/she may also act as a surgical assistant.
+            Dental assistants are exposed to the hepatitis B virus because they handle
+            sharps after they have been used on a patient. In a study conducted between
+            1995 and 2001 in the United States, 75% of blood exposure accidents occurred
+            in dental offices."
+          C-224: "Student medical electroradiology manipulator"
+        Social care profession:
+          C-235: "Student counselor in social and family economics"
+          C-246: "Pupil assistant or family assistant"
+          C-238: "Student social and family intervention technician"
+          C-239: "Student monitor-educator"
+          C-234: "Student social work assistant"
+          C-233: "Student socio-educational animator"
+          C-242: "Student educator of young children"
+          C-237: "Student specialized technical educator"
+          C-232: "Student medical-psychological assistant"
+        Autres professions:
+          C-979: "Chiropractor student"
+          C-982: "Osteopathic student"
+          C-977: "Student psychologist"
+          C-981: "Student psychotherapist"
+          C-985: "Student Genetic Counselor"
+          C-978: "Student medical physicist"
+          C-983: "Student prosthetist and orthotist for the fitting of disabled persons"
+          C-980: "Student optician"
+        Medical or pharmaceutical profession:
+          C-213: "Midwifery studies"
+          C-68: "Medical studies"
+          C-210: "Dental surgery studies"
+          C-215: "Pharmacy studies"
+        C-66: "Student or trainee in the health or medical-social field"
+        C-1113: "Students of medical schools and universities providing education
+          in medical fields"
+      Active professional:
+        What profession?:
+          C-1005: "Care professional"
+          C-971: "Optician"
+          C-970: "Medical Physicist"
+          C-984: "Genetic Counselor"
+          C-77: "Biomedical Analysis Technician"
+          H-77: "The medical biology analysis technician is responsible for carrying
+            out medical biology examinations that allow the physician to confirm a
+            diagnosis or detect a disease. The job can be done in a hospital, clinic
+            or in the city."
+          C-71: "Caregiver"
+          H-71: "As part of a care team, the nursing assistant assists the nurse in
+            daily care activities. He/she contributes to the well-being of the patients,
+            by accompanying them in all the gestures of daily life and by helping
+            to maintain their autonomy. In collaboration with the nurse and under
+            his/her responsibility, the orderly carries out the hygiene and comfort
+            care of the patient: toilet, meals, bed making, reception, installation
+            and transfer of patients. The profession of nursing assistant is practiced
+            in hospitals as well as in clinics."
+          C-64: "Pedicure-Podologue"
+          H-64: "The chiropodist is a health professional who specializes in the diagnosis
+            and treatment of foot disorders."
+          C-856: "Supervisory staff for health care personnel"
+          C-844: "Home Help"
+          H-844: "Home help via the universal service employment check."
+          C-936: "Employed in a health care facility"
+          C-422: "Medical secretary, patient receptionist"
+          H-422: "The medical secretary assists the doctor and is the first point
+            of contact for the patient, on the telephone when he or she wishes to
+            make an appointment, or when he or she is received in the doctor's office
+            or hospital department. She puts people at ease and answers their questions."
+          C-89: "Maternal assistant"
+          C-842: "Stretcher Bearer"
+          C-178: "Speech-Language Pathologist"
+          H-178: "Speech-language pathologists prevent, identify and treat voice,
+            speech and language disorders in children and adults. One of their main
+            skills is to design and implement rehabilitation programs."
+          C-185: "Early Childhood Educator"
+          C-379: "Medical Biologist"
+          H-379: "A medical biologist is a doctor of pharmacy or medicine who has
+            completed a 4-year specialization in medical biology in order to work
+            in a medical analysis laboratory, either in town or in a hospital."
+          C-188: "Monitor-Educator"
+          C-973: "Osteopath"
+          C-974: "Chiropractor"
+          C-854: "Rehabilitator"
+          C-605: "Other health care profession"
+          H-605: "Check this box if you did not find your occupation in the list above
+            but are in a health-related occupation."
+          C-858: "Dietitian"
+          C-62: "Nurse"
+          H-62: "Nurses work in private practices, health centers, hospitals and preventive
+            services. Nurses provide care prescribed by physicians and may prescribe
+            certain procedures themselves. The risks of exposure to certain infectious
+            diseases are related to working conditions."
+          C-937: "Employee in a medical-social housing structure"
+          C-69: "Pharmacist"
+          H-69: "The pharmacist is a drug specialist. He or she is responsible for
+            dispensing drugs prescribed by a physician in a hospital or city pharmacy,
+            checking for interactions or any other factors that may affect the safety
+            or effectiveness of the treatment. The pharmacist has other roles, for
+            example in the area of prevention. They are now authorized to vaccinate
+            adults against the flu."
+          C-203: "Audio-prosthetist"
+          H-203: "A medical technician, the audioprosthesist is a specialist in hearing
+            correction. On prescription from an ENT doctor (ear, nose and throat specialist),
+            he/she proceeds to the fitting of hearing deficiencies."
+          C-56: "Physician"
+          H-56: "As a central professional in the world of health, the physician examines,
+            diagnoses, orders tests and prescribes pharmaceutical or hospital treatment
+            as required. He follows his patients and manages their health in its entirety.
+            There are general practitioners and specialists in a given pathology."
+          C-975: "Psychotherapist"
+          C-58: "Midwife"
+          H-58: "The midwife's mission is to accompany pregnant women throughout their
+            pregnancy, from the establishment of the diagnosis to the day of delivery.
+            More broadly, she also provides gynecological follow-up. This difficult
+            job requires both medical and psychological skills. Midwives can also
+            provide vaccinations."
+          C-853: "Hospital Service Officer (ASH)"
+          C-181: "Medical-psychological assistant"
+          C-73: "Ambulance driver"
+          H-73: "The ambulance driver exercises his activity within a private company
+            of medical transport or a health establishment. He ensures, on medical
+            prescription or in the event of medical emergency, the assumption of responsibility
+            and the transport of patients, of wounded, in vehicles of adapted medical
+            transport. He informs himself on the degree of gravity of the patients
+            and their types of injuries with the structure for which he works: SAMU,
+            hospital, Red Cross... He is at the service of the patients, takes care
+            of their comfort, installs them during the journey and can even intervene
+            in case of emergency to provide first aid. The ambulance driver must take
+            care of the maintenance of his vehicle and the sterilization of the material.
+            He can also assist the patient for the formalities of entry and exit of
+            the patients."
+          C-74: "Child care assistant"
+          H-74: "The childcare assistant carries out awakening activities and care
+            aimed at the well-being, autonomy and development of the child. His/her
+            role is part of a global approach and takes into account the relational
+            dimension of care as well as communication with the family within the
+            framework of parental support. The childcare assistant participates in
+            the reception of children and the social integration of children with
+            disabilities, chronic illnesses or at risk of exclusion. The assistant
+            usually works in a multi-professional team and in health or social structures,
+            in collaboration with and under the responsibility of the nurse or the
+            childcare worker."
+          C-972: "Prosthetist and orthotist for the fitting of disabled people"
+          C-179: "Orthoptist"
+          H-179: "This professional is responsible for the rehabilitation of vision
+            disorders (eye physiotherapist). The orthoptist can measure the visual
+            field or detect a strabismus on prescription from an ophthalmologist."
+          C-857: "Administrative, medico-technical or technical staff"
+          C-60: "Surgeon"
+          H-60: "The surgeon is a medical doctor who practices a very technical specialty.
+            He performs physical interventions on body tissues, repairs serious trauma,
+            corrects deformities, treats infections, removes diseased organs... The
+            surgeon is therefore particularly exposed to blood contamination. There
+            are many surgical specialties."
+          C-182: "Socio-educational animator"
+          C-180: "Psychomotrician"
+          H-180: "On medical prescription, the psychomotrician helps people suffering
+            from various psychomotor disorders. By means of relaxation techniques,
+            gesture education, body and plastic expression and through activities
+            of play, rhythm and coordination, the psychomotrician seeks to correct
+            these difficulties of psychological origin that adults or children may
+            encounter. They work mainly in hospitals, but can also work in private
+            practice."
+          C-184: "Social and family economy advisor"
+          C-421: "Pharmacy assistant, welcoming patients"
+          H-421: "This professional is familiar with drugs and their use. Under the
+            responsibility of the pharmacist, the drug preparer prepares medical prescriptions
+            while respecting the doses and hygiene standards. He/she also manages
+            the stock of drugs in a pharmacy or hospital."
+          C-187: "Technician of social and family intervention"
+          C-446: "Other profession in the medico-social field"
+          C-61: "Dental surgeon"
+          H-61: "The dental surgeon takes care of the mouth, teeth, gums and jawbone.
+            He relieves, repairs and also looks after the aesthetics of the smile.
+            He treats cavities and more serious infections of the oral cavity. He
+            places prostheses. The dental surgeon may be exposed to blood or other
+            biological fluids."
+          C-177: "Occupational Therapist"
+          H-177: "The occupational therapist maintains, restores and facilitates the
+            human activities of people with disabilities or suffering from illness
+            or injury."
+          C-855: "Psychologist"
+          C-75: "Medical Electroradiology Manipulator"
+          H-75: "The medical electroradiology manipulator is a health professional,
+            both a caregiver and a technician. In medical imaging, he/she participates
+            in medical examinations (radiology, scanner, MRI, nuclear medicine, electrophysiology)
+            whose aim is to establish a diagnosis."
+          C-658: "Dental Assistant"
+          H-658: "The mission of the dental assistant is to carry out cleaning and
+            sterilization operations. He/she may also act as a surgical assistant.
+            Dental assistants are exposed to the hepatitis B virus because they handle
+            sharps after they have been used on a patient. In a study conducted between
+            1995 and 2001 in the United States, 75% of blood exposure accidents occurred
+            in dental offices."
+          C-698: "Medical Auxiliary in the French Army"
+          H-698: "Military personnel who have undergone medical specialty training
+            to perform technical and administrative functions in support of medical
+            teams such as casualty care and safe evacuation. Also complete the Military
+            section.  "
+          C-935: "Health professional"
+          C-57: "Physiotherapist"
+          H-57: "The physiotherapist ensures the rehabilitation of people suffering
+            from paralysis, neurological disorders and accidents. They help children
+            and adults suffering from respiratory, circulatory or rheumatic diseases
+            to regain normal motor function."
+        Mode of professional practice:
+          In private practice:
+            C-80: "Works in a private practice setting, outside of a prevention or
+              care facility or organization"
+            C-377: "Works in a private practice, in a prevention or care institution
+              or organization"
+            H-377: "1. Establishments or organizations listed in the nomenclature
+              applicable to health and social establishments in execution of the decree
+              of November 3, 1980, as amended.) and family planning establishments;dental
+              care establishments;prison health care establishments;medical biology
+              analysis laboratories;blood transfusion centers;blood transfusion stations;establishments
+              for the conservation and storage of human products other than blood;establishments
+              and services for disabled children and young people;establishments and
+              accommodation services for disabled adults;accommodation establishments
+              for the elderly;home care health services;social establishments and
+              services contributing to the protection of children;establishments for
+              the care of pre-school children;establishments for the training of health
+              care personnel.2. Other establishments and organizationsmunicipal health
+              and hygiene services; health transport companies; occupational medicine
+              services; school preventive medicine centers and services; fire and
+              rescue services."
+          In the public sector:
+            C-79: "Works in the public sector, in a prevention or care facility or
+              organization"
+            H-79: "1. Establishments or organizations listed in the nomenclature applicable
+              to health and social establishments in execution of the decree of November
+              3, 1980, as amended.) and family planning establishments;dental care
+              establishments;prison health care establishments;medical biology analysis
+              laboratories;blood transfusion centers;blood transfusion stations;establishments
+              for the conservation and storage of human products other than blood;establishments
+              and services for handicapped children and young people;establishments
+              and accommodation services for handicapped adults;accommodation establishments
+              for the elderly;home care health services;social establishments and
+              services contributing to the protection of children;establishments for
+              the care of pre-school children;establishments for the training of health
+              care personnel.2. Other establishments and organizationsmunicipal health
+              and hygiene services; health transport companies; occupational medicine
+              services; school preventive medicine centers and services; fire and
+              rescue services."
+        In which department?:
+          C-273: "Works in a maternity hospital"
+          C-201: "Works in a neonatal unit"
+          C-384: "Does not work in any of the following departments: maternity, pediatrics,
+            neonatology, infectious diseases, immunocompromised or nephrology"
+          C-274: "Works in an infectious disease department"
+          C-367: "Works in a pediatric ward"
+          C-368: "Works in a nephrology department"
+          C-1088: "Works in a laboratory handling the monkeypox virus"
+          H-1088: "People at increased risk of exposure to MPXV through work involving
+            the handling of cultures or concentrated quantities of MPXV virus."
+          C-452: "Works in a hospital medical biology laboratory"
+          C-542: "Works in a meningococcal research laboratory"
+          C-272: "Works in an immunocompromised ward"
+        Exposure to biological agents?:
+          C-1036: "No risk of exposure to biological agents"
+          C-604: "Risk of exposure to biological agents"
+          H-604: "This concerns in particular the health professions (doctors, pharmacists,
+            nurses, midwives, dentists, etc.), either because of activities involving
+            biological agents (industrial production of vaccines, medical analysis
+            laboratories, virology research, etc.) or because of exposures generated
+            by the professional activity without biological agents being the object
+            (human or veterinary health care, agriculture, etc.)The risk of exposure
+            to biological agents may be related to contact with patients, the bodies
+            of deceased persons or biological products, either directly, including
+            by spraying, or indirectly, in particular during the handling and transport
+            of medical devices, biological samples, linen or waste from care activities
+            involving infectious risks. The occupational physician assesses the risk
+            of exposure individually according to the characteristics of the position
+            occupied by the worker and prescribes the necessary vaccinations."
+          C-994: "Personnel in repeated contact with tuberculosis patients"
+          C-732: "High risk of exposure to tuberculosis (assessed by the occupational
+            physician)"
+          H-732: "Personnel likely to be highly exposed, such as professionals in
+            repeated contact with tuberculosis patients, especially those at risk
+            of multi-resistant tuberculosis, or laboratory personnel working on mycobacteria
+            (cultures, animal models, etc.)."
+        Dernières précisions:
+          C-378: "Active health professional"
+          H-378: "If you are a health care professional but have no chance to come
+            into contact with citizens or patients in the context of a prevention
+            or care activity, do not check this box!"
+        What place of practice?:
+          C-1007: "Works in a home for the disabled"
+          C-1006: "Works in a home for the elderly"
+          C-90: "Works in a social institution or service contributing to child protection"
+          C-84: "Works in a facility or service for children and youth with disabilities"
+          C-252: "Works in a clinic or health center"
+          C-407: "Works in a private practice"
+          C-852: "Works for a service provider and distributor of medical equipment"
+          C-428: "Works in a retail pharmacy"
+          C-256: "Works in a blood transfusion center or station"
+          C-87: "Professional employed in a home care service"
+          C-429: "Works in a hospital pharmacy"
+          C-86: "Works in an establishment for dependent elderly people (EHPAD)"
+          H-86: "Retirement home."
+          C-366: "Works in a health personnel training facility"
+          C-82: "Works in a medical transport company"
+          C-251: "Works in a hospital or other facility under the Hospital Act"
+          H-251: "Establishments under the hospital law :1100 Hospitals1101 Regional
+            Hospitals1102 Hospitals1103 Specialized Hospitals for Mental Illness1104
+            Centers for the Fight against Cancer1106 Local Hospitals1107 Establishments
+            for Follow-up and Rehabilitation Care1109 Establishments for Long-term
+            Care1110 Establishments for Short-term Care1111 Other Establishments for
+            the Fight against Mental Illness Duration111111 Other Establishments for
+            the Fight against Mental Illness1112 Establishments for Children with
+            a Sanitary Character1113 Establishments for the Fight against Alcoholism1200
+            Other Establishments under the Hospital Law1201 Home Treatments and Care1203
+            Ambulatory Dialysis1205 Other Establishments under the Hospital Law :
+            Thermal Establishment, Inter Hospital Syndicate (S.Hospitals of the armed
+            forces and the Institut National des Invalides will be considered as hospital
+            establishments."
+          C-85: "Works in an institution or service for adults with disabilities"
+          C-255: "Works in a prison health facility"
+          C-259: "Works in an occupational health department"
+          C-679: "Works in a medical or research laboratory handling material contaminated
+            or likely to be contaminated with rabies virus"
+          C-249: "Works in a medical biology laboratory"
+          H-249: "Professionals exposed to the risks of contamination: handling contaminated
+            or potentially contaminated material."
+          C-260: "Works in a school preventive medicine center or service"
+          C-258: "Works in a training facility for health personnel"
+          C-253: "Works in a maternal and child protection (P.M.I.) and family planning
+            establishment"
+          C-254: "Works in a dental care facility"
+          C-270: "Works in a municipal health department"
+          C-843: "Works in a long-term care unit (USLD)"
+          C-257: "Works in a non-blood human product holding and storage facility"
+          C-88: "Works in a pre-school childcare facility (daycare, nursery school,
+            etc.)"
+          H-88: "Establishments, services and centers for children under six years
+            of age; mentioned in article L.2324-1 of the public health code. Order
+            of March 15, 1991 fixing the list of establishments or public or private
+            organizations of prevention or care in which the exposed personnel must
+            be vaccinated"
+        C-1114: "Administrative staff working in healthcare segment"
+      C-1099: "Health professionals in contact with patients"
+      H-1099: "Medical practitioners and medical support persons who are in close
+        contact with patients in the course of their work."
+      C-1100: "Professionals from long-term social care centres in contact with the
+        public"
+      H-1100: "Employees of long-term social care centres who are in close contact
+        with clients as part of their professional duties."
+    Militaire:
+      A l'incorporation:
+        C-588: "Military at incorporation with departure on OM-OPEX mission - Possible
+          embarkation between 1 and 5 months of service"
+        H-588: "OM: overseas OPEX: external operation"
+        C-661: "Volunteer trainee of the adapted military service (SMA)"
+        H-661: "The SMA is a military socio-professional integration program for young
+          people aged 18 to 25 from overseas who are far from employment. For one
+          year, these volunteers will live in a boarding school, under military status.
+          The military supervision will help them acquire life skills that will then
+          facilitate the acquisition of professional know-how. Ultimately, the goal
+          is to promote their employability in a job in demand and in their region."
+        C-589: "Military on incorporation with OM-OPEX mission - Possible embarkation
+          after the 6th month of service"
+        H-589: "OM: overseas OPEX: external operation"
+        C-660: "Voluntary military service trainee (VMS)"
+        H-660: "The SMV is a military socio-professional integration program for young
+          people in France aged 18 to 25 who are having difficulty with school and/or
+          social life. For one year, these volunteers will live in a boarding school,
+          under military status. The military supervision will help them acquire life
+          skills that will subsequently facilitate the acquisition of professional
+          know-how. Ultimately, the goal is to promote their employability in a job
+          in demand and in their region."
+        C-659: "Incorporation into the operational reserve in France or overseas"
+        H-659: "A person who has made a commitment to serve in the Operational Reserve
+          (OR). In the event of an OM-OPEX-Embarkation mission, the vaccination schedule
+          for military personnel on OM-OPEX-Embarkation projects applies to reservist
+          personnel. DROM: overseas departments and regions. COM: overseas communities.
+          POM: overseas countries."
+      Après l'incorporation:
+        Pas de mission OM-OPEX-Embarquement planifiée:
+          C-140: "Active military"
+          C-729: "Reservist"
+        Mission OM-OPEX-Embarquement:
+          FAN embarqué:
+            C-711: "Mission of an embarked FAN soldier"
+            H-711: " Information for yellow fever vaccine recommendations."
+          France OM sauf Guyane:
+            C-710: "Military mission in France OM (DROM, COM, POM)"
+            H-710: " Information for yellow fever vaccination recommendations.  DROM:
+              overseas departments and regions COM: overseas communities POM: overseas
+              countries (Polynesia, New Caledonia)"
+          Europe:
+            Période de la mission:
+              C-713: "Mission during the risk period for tick-borne encephalitis:
+                March 21 (spring) to November 30"
+            Conditions de la mission:
+              C-715: "Visits to rural or forested areas"
+            Pays avec encéphalite à tiques endémique:
+              C-707: "Military mission in Germany: districts with risk of tick-borne
+                encephalitis according to the Robert Koch Institute"
+              H-707: "Information for tick-borne encephalitis vaccine recommendations
+                - The risk of tick-borne encephalitis by district can be found on
+                the Robert Koch Institute website.https://www.mesvaccins.net/textes/20200220_TBE_Allemagne.png"
+              C-708: "Military mission in a country with endemic tick-borne encephalitis"
+              H-708: "Austria, Croatia, Estonia, Denmark (Bornholm Island), Finland,
+                Hungary, Latvia, Lithuania, Poland, Czech Republic, Western Russia,
+                Slovakia, Slovenia, Sweden, Switzerland."
+            Pays avec cas sporadiques d'encéphalite à tiques ou données peu documentées:
+              C-716: "Military mission in Germany: districts WITHOUT risk of tick-borne
+                encephalitis"
+              H-716: "Information for tick-borne encephalitis vaccine recommendations
+                - The risk of tick-borne encephalitis by district can be found on
+                the Robert Koch Institute website."
+              C-730: "Military mission in a European country other than: Austria,
+                Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Germany, Hungary,
+                Latvia, Lithuania, Poland, Slovakia, Slovenia, Sweden or Finland"
+              H-730: "Information for tick-borne encephalitis vaccine recommendations."
+              C-709: "Military mission in Bulgaria, Denmark (except if Bornholm Island)
+                and Norway"
+              H-709: "Albania, Armenia, Belgium, Belarus, Bosnia, Bulgaria, Croatia,
+                Denmark (except if Bornholm Island), France, Hungary, Italy, Kazakhstan,
+                Macedonia, Moldova, Montenegro, Norway, Netherlands, Romania, Serbia,
+                Ukraine."
+          Hors Europe:
+            Djibouti:
+              C-706: "Military mission with risk of projection from Djibouti to a
+                country endemic for yellow fever"
+              H-706: "Information for yellow fever vaccine recommendations."
+              C-739: "Military mission with low risk of projection from Djibouti to
+                a yellow fever endemic area"
+              H-739: "Information for yellow fever vaccine recommendations."
+            Autres pays:
+              C-728: "Military mission in a country other than: yellow fever endemic
+                country, Middle East or Djibouti, Europe, Asia or Oceania"
+            Asie et Océanie:
+              C-717: "Military mission in East Asia, South-East Asia, the Indian subcontinent,
+                Papua New Guinea or the far north of Australia"
+              H-717: " Information for yellow fever and Japanese encephalitis vaccine
+                recommendations."
+            Moyen Orient:
+              C-720: "Military mission in the United Arab Emirates, Lebanon, Iraq
+                or Syria"
+              H-720: "Information for yellow fever vaccine recommendations."
+            Zone endémique pour la fièvre jaune:
+              C-705: "Military mission in Central or West Africa (Burkina Faso, Ivory
+                Coast, Mali, Mauritania, Niger, CAR, Senegal, Chad...)"
+              H-705: "Information for yellow fever vaccine recommendations."
+              C-741: "Military mission in Guyana"
+              H-741: "Information for yellow fever vaccine recommendations."
+              C-740: "Military mission in Gabon"
+              H-740: "Information for yellow fever vaccine recommendations."
+              C-742: "Mission of a military member in a country endemic for yellow
+                fever other than a country in Central or West Africa and Guyana"
+          C-139: "Military with conditioning for a mission OM-OPEX-Embarkation"
+          H-139: "OM: overseas OPEX: external operation Whatever the status: active
+            military, reservist ...  "
+        C-1118: "Military"
+    Police, emergency services:
+      C-1119: "Border guard"
+      C-976: "Fireman sailor"
+      C-102: "Police officer"
+      C-93: "Rescuer"
+      H-93: " If the person is stationed in a civil security training and intervention
+        unit (UIISC): complete the section Profession or activity: Military."
+      C-92: "Fireman"
+      H-92: " If the person belongs to the BSPP (Brigade des sapeurs pompiers de Paris)
+        or the BMPM (Brigade des marins pompiers de Marseille): complete the section
+        Profession or activity: Military."
+      C-261: "Employee in a fire and rescue service (SDIS)"
+    Working with animals, agriculture, water, forests, and fishing:
+      C-154: "Gamekeeper"
+      C-151: "Employee in a veterinary laboratory handling material contaminated or
+        likely to be contaminated with rabies virus"
+      C-531: "Dog handler in a country where rabies is endemic"
+      H-531: "Currently working or preparing for a mission in a rabies-endemic country."
+      C-532: "Professional incorporator of dogs from abroad"
+      C-156: "Employee in a slaughterhouse"
+      C-155: "Forest Ranger"
+      C-152: "Employee in an animal pound"
+      H-152: "Place where abandoned or stray animals found on the public highway are
+        confined."
+      C-551: "Equarisseur"
+      C-111: "Fisheries Warden"
+      H-111: "Specific freshwater activities"
+      C-153: "Naturalist or taxidermist"
+      H-153: "Other name : stuffer."
+      C-105: "Veterinarian or employee in a veterinary service"
+      C-107: "Employed in the cleaning or maintenance of canals, ponds, lakes, rivers,
+        waterways, banks"
+      C-108: "Employed in activities related to freshwater fish farming"
+      C-109: "Professional fisherman"
+      H-109: "Specific freshwater activities"
+      C-110: "Professional diver"
+      H-110: "Specific freshwater activities"
+      C-150: "Chiropodist"
+      H-150: "Bat specialist."
+    Tourism and transport:
+      C-862: "Other profession in the field of transport"
+      H-862: "Bus driver, tramway driver..."
+      C-113: "Guide accompanying groups of travelers"
+      C-112: "Cruise ship or airplane crew"
+    C-575: "None of the occupations listed in the questionnaire"
+  Living or housing conditions:
+    Community living, residence, institution...:
+      C-1103: "Attend a childcare facility approved by the Office of Birth and Childhood
+        (ONE)"
+      C-197: "Stay in a long-term care unit (USLD)"
+      C-1108: "Health resorts"
+      C-1111: "Residential medical care facilities"
+      C-1107: " Stay in an addiction treatment center"
+      C-1106: "Facilities providing round-the-clock care to the disabled people, chronically
+        ill or the elderly"
+      C-1112: "Hospices"
+      C-120: "Stay in a psychiatric institution"
+      H-120: "Whether it is a child or an adult"
+      C-908: "Resides in a migrant workers' home"
+      C-1008: "Lives in a residence for the disabled"
+      C-1009: "Lives in a home for the elderly"
+      C-118: "Child or adolescent in a service or institution for disabled children
+        and youth"
+      C-124: "In detention in a penal institution"
+      C-533: "Staying in a home for the dependent elderly"
+      C-116: "Preschooler living in a community setting"
+      H-116: "Living in a community may result in specific vaccination recommendations."
+      C-1093: "School child"
+      C-535: "Stay in a follow-up care and rehabilitation unit"
+      C-534: "Resides in a residential facility for disabled adults"
+      H-534: "Includes people with vulnerable disabilities living in a specialized
+        home (MAS) or a medicalized home (FAM)."
+    Risk factors concerning sexuality:
+      C-597: "Attendance at gay-friendly or gay-friendly venues"
+      C-998: "Person in a prostitution situation"
+      C-997: "Trans person"
+      H-997: "This risk factor has been identified by the health authorities. There
+        is nothing shocking about it! The goal is to inform and prevent."
+      C-685: "Exposure to sexually transmitted infections (STIs)"
+      C-121: "Multiple sexual partners"
+      H-121: "In the absence of a unanimous definition, a person is considered to
+        have multiple partners if he or she has more than 3 to 5 partners per year."
+      C-129: "Sexual relations with men"
+      C-1090: "Sexual behaviour involving a high risk of exposure to a transmissible
+        disease"
+      C-686: "Current or recent sexually transmitted infection (STI)"
+      C-598: "Considered participation in a gay rally"
+      C-123: "Sexual partner of a person infected with the hepatitis B virus"
+      H-123: "Or a chronic HBsAg carrier."
+    Others:
+      C-1038: "Regular swimming, diving or fishing in fresh water"
+      C-143: "Low level of resources"
+      C-1105: "People having close family contact with chronic ill people"
+      C-1104: "People having close family contact with the elderly"
+      C-1039: "Regular practice of canoeing, rafting, triathlon or other nature sports"
+      H-1039: "Especially those involving frequent contact with a humid environment"
+      C-1123: "Waiting for surgery"
+      C-633: "Person who regularly babysits"
+      C-48: "Overcrowded housing"
+      H-48: "Many people housed in a small area."
+      C-636: "Refugee from a country where the polio virus is circulating"
+      H-636: "For more information, visit medecinedesvoyages.net."
+      C-672: "Migrant recently arrived in France"
+      C-172: "Born in a country where tuberculosis is common"
+      H-172: "the entire African continent;the entire Asian continent, including the
+        countries of the Near and Middle East;the countries of Central and South America;the
+        countries of Central and Eastern Europe, including the countries of the former
+        USSR;in the European Union: Bulgaria, Estonia, Hungary, Latvia, Lithuania,
+        Poland, Portugal, Romania."
+    Alcohol, drugs...:
+      C-687: "Intranasal drug abuse"
+      C-114: "Parenteral drug abuse"
+      H-114: "If you are an addict and inject drugs intravenously."
+      C-54: "Smoker"
+    C-1101: "Long-term care centre users"
+  Chronic condition:
+    Cardiology-Pulmonology:
+      Cardiology:
+        C-961: "Hypertension, complicated or not"
+        C-1109: "Cardiovascular insufficiency"
+        C-4: "Severe Valvulopathy"
+        C-1037: "Other serious cardiovascular disease"
+        H-1037: "Other than a cardiovascular disease displayed in the questionnaire."
+        C-410: "Severe rhythm disorder"
+        H-410: "To be selected if it is a serious rhythm disorder, justifying long-term
+          treatment."
+        C-200: "History of stroke"
+        C-743: "Complicated hypertension"
+        C-3: "Severe heart failure"
+        C-927: "Myocarditis or pericarditis not related to SARS-CoV-2 infection, prior
+          to vaccination and still active"
+        C-547: "Coronary artery disease"
+        H-547: "Select this item if you have angina or a history of myocardial infarction."
+        C-50: "Moderate heart failure"
+        C-954: "Cardiomyopathy"
+        C-953: "Unstable coronary artery disease"
+        C-926: "Myocarditis or pericarditis associated with SARS-CoV-2 infection"
+        C-2: "Cyanogenic congenital heart disease"
+        H-2: "Condition to be selected if this heart disease is cyanogenic, that is,
+          with cyanosis, due to a mixture of blue non-oxygenated blood with red oxygenated
+          blood, if it is responsible for pulmonary arterial hypertension or if it
+          is accompanied by heart failure.Heart disease are malformations of the heart
+          present at birth and due to a developmental defect that occurred during
+          embryonic life.Risk of covid 19 if unstable heart failure.When in doubt,
+          consult your doctor for further information."
+      Pulmonology:
+        Asthma:
+          C-304: "Severe asthma under continuous treatment"
+          H-304: "Level 5 according to GINA, Global Initiative for Asthma, version
+            2020, cortico-dependent (on oral corticosteroids)"
+          C-126: "Asthma (other than severe and under continuous treatment)"
+        Others:
+          C-951: "Severe chronic obstructive pulmonary disease (COPD)"
+          H-951: "GOLD stage (Global Initiative for Chronic Obstructive Lung Disease
+            version 2020) 3 and 4, group D."
+          C-912: "Sleep apnea"
+          C-612: "Emphysema"
+          H-612: "Emphysema is a chronic lung disease characterized by dilatation
+            of the pulmonary alveoli (small air sacs at the end of the terminal bronchioles,
+            where gas exchanges with the bloodstream take place) and by a destruction
+            of the partitions separating the alveoli."
+          C-281: "Chronic obstructive pulmonary disease (COPD)"
+          H-281: "Often described as smoker's bronchitis. A disease characterized
+            by a persistent blockage of the flow of inspired gases through the lungs.
+            Three million five hundred thousand people (i.e. 6 to 8% of the adult
+            population) are affected by this disease; 100,000 patients have severe
+            forms requiring oxygen therapy or home ventilation. In 2020, chronic obstructive
+            pulmonary disease will be the 3rd leading cause of death in the world
+            and the 5th leading disease in terms of disability. It is most often caused
+            by smoking. The most common symptoms of this disease are shortness of
+            breath (or feeling like you need air), abnormal sputum (a mixture of saliva
+            and mucus in the airways) and a chronic cough. Everyday activities, such
+            as climbing a few stairs or carrying a suitcase, can become very difficult
+            as the disease progressively worsens."
+          C-128: "Bronchopulmonary dysplasia"
+          H-128: "Dysplasia is at particular risk of severe influenza or pneumococcal
+            infection if it has been treated in the previous six months with mechanical
+            ventilation or prolonged oxygen therapy or continuous drug treatment with
+            corticosteroids, bronchodilators or diuretics.Bronchopulmonary dysplasia
+            is one of the most common complications of prematurity. It is manifested
+            by respiratory distress. Newborns affected by this disease have a greater
+            susceptibility to respiratory infections, which can sometimes be very
+            serious."
+          C-127: "Mucoviscidosis"
+          C-142: "Other chronic respiratory disease"
+          H-142: "Other than a respiratory illness displayed in the questionnaire."
+          C-39: "Chronic respiratory failure"
+          H-39: "Chronic obstructive or restrictive respiratory failure from any cause,
+            including neuromuscular diseases at risk of respiratory decompensation,
+            upper or lower airway defects, lung defects, or rib cage defects."
+    Immune deficiency:
+      C-996: "Congenital immune deficiency, without strong immunosuppression"
+      C-586: "Severe combined immune deficiency"
+      H-586: "Severe combined immunodeficiency (SCID) or agammaglobulinemia of the
+        alymphocytosis type is an autosomal recessive inherited disorder. It is characterized
+        by a defect in the differentiation of T and B lymphocytes. There are several
+        forms: RAG-1 or RAG-2 protein deficiency, Artemis protein deficiency characterized
+        by excessive cellular sensitivity to ionizing radiation. DICS manifests itself
+        in children, from the first months of life, by recurrent bacterial or viral
+        infections (cytomegalovirus, Pneumocistis carinii), severe diarrhea and delayed
+        growth. The use of live vaccines and the transfusion of non-irradiated blood
+        products should be prohibited in suspected cases. The incidence is about 1/500,000
+        births. Treatment consists of allogeneic hematopoietic stem cell transplantation.
+        The antenatal diagnosis of SCID is based essentially on the identification
+        of the absence of the various lymphocyte populations and therefore of their
+        function. This diagnosis is made at 20 weeks of pregnancy by fetal blood sampling.
+        In families where a mutation of the RAG gene has been identified, or where
+        the genetic link of the disease to the locus present on chromosome 10p has
+        been established, an antenatal diagnosis can be made at 11 weeks of amenorrhea
+        on trophoblast biopsy. Source: Orphanet."
+      C-21: "Complement deficit"
+      H-21: "Deficiency of the terminal fraction of complement or properdine."
+      C-582: "Common variable immune deficiency (CVID)"
+      H-582: "Common variable immunodeficiency (CVID) is a heterogeneous group of
+        diseases characterized by hypogammaglobulinemia of unknown cause with deficient
+        production of specific antibodies after immunization, causing recurrent bacterial
+        infections, usually by encapsulated bacteria. Its prevalence is estimated
+        at 1:25,000 in the population of European origin and it affects both men and
+        women."
+      C-587: "Partial combined immunodeficiency"
+      H-587: "Partial combined immunodeficiency is associated with several rare diseases.
+        These are Job-Buckley, Wiskott-Aldrich, Di George (or 22q11 microdeletion
+        syndrome) and Louis Bar (or ataxia telangiectasia) syndromes."
+      C-1010: "Congenital immune deficiency, with strong immunosuppression"
+      C-583: "Bruton's disease (X-linked agammaglobulinemia)"
+      H-583: "X-linked agammaglobulinemia manifests itself by recurrent bacterial
+        infections of the respiratory and digestive tracts and predisposes to the
+        risk of chronic enterovirus infections. Its incidence is of the order of 1/200
+        000 births. It is related to the absence of immunoglobulin production. It
+        is an X-linked recessive inherited disease. This disease is caused by mutations
+        in the gene coding for Btk tyrosine kinase. It is characterized by a defect
+        in the maturation of B lymphocytes. Treatment is based mainly on the regular
+        administration of immunoglobulins by the venous or subcutaneous route (source:
+        Orphanet)."
+      C-830: "Hyper IgM syndrome"
+      H-830: "This syndrome is characterized by hypogammaglobulinemia of IgG and IgA
+        with a normal or increased level of IgM.) Situations accompanied by a deficiency
+        in cellular immunity: mutation of the gene coding for CD40 ligand, a molecule
+        involved in isotypic switching in the germinal center during antigenic stimulation;
+        mutation of the NEMO gene.2) Hyper IgM syndromes with isolated humoral deficiency
+        linked to an intrinsic abnormality of the B lymphocytes by mutations of the
+        genes coding for AID and UNG preventing isotypic switching and not associated
+        with T cell defects.As in other hypogammaglobulinemias, infections are dominated
+        by respiratory and ENT infections with encapsulated bacteria (S. pneumoniae,
+        Haemophilus), and more rarely with pyogenes. P. aeruginosa is isolated in
+        cases of bronchial dilatation. Digestive infections are frequent with a high
+        prevalence of giardiasis.In case of associated cellular deficiency, other
+        germs are involved: Pneumocystis, cryptosporidia responsible for diarrhea
+        and sclerosing cholangitis."
+      C-585: "IgA deficiency"
+      H-585: "Selective immunoglobulin A deficiency is a primary (or congenital) immune
+        deficiency and is the most common primary antibody deficiency. With an incidence
+        of 1/325 people in the West, it is not a rare disease. Due to the partial
+        or total absence of IgA antibodies, which play a major role in the protection
+        of mucous membranes against infections, affected individuals suffer from recurrent
+        episodes of respiratory or gastrointestinal infections. They may also have
+        a variable common immunodeficiency and the incidence of autoimmune disorders
+        is increased. The etiology of selective immunoglobulin A deficiency is not
+        elucidated, but familial transmission observed in 20-25% of cases suggests
+        a genetic influence. There is no specific treatment for this disease, but
+        infections must be treated effectively. Patients with selective total IgA
+        deficiency should inform their caregivers because of the potential risk of
+        an anaphylactic reaction when transfusing blood products. Source: Orphanet."
+      C-584: "IgG subclass deficiency"
+      H-584: "Type G immunoglobulins are composed of 4 subgroups called IgG subclasses.
+        Normal serum contains a mixture of the four IgG subclasses with approximately
+        65% IgG1, 25% IgG2, 5% IgG3 and 2.5% IgG4.They have specific properties, for
+        example IgG2 and IgG4 are responsible for the majority of the immune response
+        against encapsulated bacteria (pneumococcus, Haemophilus influenzae type b).Deficiency
+        in IgG subclasses is responsible for recurrent infections (especially of the
+        upper airways) and autoimmune manifestations (vasculitis)."
+      C-1096: "Immunodeficiency, whatever the cause (disease or treatment)."
+      H-1096: "People who are immunocompromised or receiving immunosuppressive treatment."
+      C-580: "Phagocytic cell deficiency (septic granulomatosis)"
+      H-580: "It is a non-specific immune deficiency of sex-linked recessive transmission.
+        It manifests itself in the first months of life, in boys, by infections with
+        various germs, bacteria or fungi, reaching the skin, the lymphatic system,
+        the bronchopulmonary tree, the liver and the spleen."
+      C-581: "Severe chronic neutropenia"
+      H-581: "Patients with chronic neutropenia have a permanent or recurrent drop
+        in neutrophils below 1,500 per mm3, resulting in susceptibility to bacterial
+        infections (staphylococcus, streptococcus, gram-negative bacilli) and mycotic
+        infections (candidiasis, systemic aspergillosis). They also have gingivostomatitis.
+        Severe neutropenia is defined as a neutrophil count of less than 500 mm3."
+    Liver:
+      C-956: "Cirrhosis"
+      H-956: "Especially in stage B or C of the Child-Pugh classification."
+      C-125: "Chronic hepatitis C virus infection"
+      C-41: "Chronic liver disease"
+      H-41: "Chronic alcoholic hepatitis, alcoholic cirrhosis or of another cause,
+        primary biliary cirrhosis, chronic autoimmune hepatitis, hemochromatosis,
+        sclerosing cholangitis, other chronic hepatopathies of unknown or unspecified
+        origin (see your doctor)."
+      C-14: "Chronic hepatitis B virus infection"
+    Transplantation:
+      Bone marrow:
+        C-415: "Waiting for a hematopoietic stem cell transplant (marrow transplant)"
+        H-415: "Refers to patients who are to receive a hematopoietic stem cell (HSC)
+          transplant, commonly known as a marrow transplant."
+        C-480: "Marrow transplant, with transplant-induced autoimmune pathology"
+        H-480: "Transplant-induced autoimmune disease (e.g. lupus, thrombocytopenic
+          purpura)."
+        C-966: "Date of hematopoietic stem cell transplant (marrow transplant)"
+        C-414: "Hematopoietic stem cell transplantation (marrow transplant)"
+        H-414: "Refers to patients who have already received a hematopoietic stem
+          cell (HSC) transplant, commonly known as a marrow transplant."
+      Organ:
+        C-19: "Waiting for an organ transplant (kidney, heart, liver or lung)"
+        H-19: "Concerns patients waiting for a solid organ transplant: kidney, heart,
+          liver or lung."
+      C-932: "Date of a solid organ transplant (kidney, heart, liver or lungs)"
+    HIV infection:
+      C-24: "HIV infection"
+      H-24: "HIV stands for human immunodeficiency virus. It is a virus that attacks
+        the body's immune defenses, which can lead to an immunity deficit with an
+        increased risk of viral or bacterial infections. The importance of the deficit
+        depends on the value of the immune cells called CD4."
+    Genetic disease:
+      C-859: "Trisomy 21"
+      H-859: "Trisomy 21 (or Down syndrome) is a congenital chromosomal abnormality
+        caused by the presence of an extra chromosome for the 21st pair."
+    Nervous and muscular system:
+      C-957: "Major neuro-cognitive deficit"
+      H-957: "MMS (Mini-Mental State) score < 20."
+      C-864: "Dementia or psychiatric disorder"
+      H-864: "Includes Alzheimer's disease."
+      C-402: "Paraplegia or tetraplegia"
+      C-199: "Other serious neurological condition"
+      H-199: "Motor neuron disease (amyotrophic lateral sclerosis), myasthenia gravis,
+        Parkinson's disease, cerebral palsy, primary malignant brain tumor, progressive
+        cerebellar disease."
+      C-198: "Myopathy or other severe neuromuscular disorder"
+      H-198: "Examples of other serious neuromuscular disorders: poliomyelitis, myasthenia,
+        Charcot disease."
+      C-1098: "Other mental illnesses"
+    ENT:
+      C-34: "Osteo-meningeal breach"
+      C-35: "Candidate for implantation or holder of a cochlear implant"
+    Asplenia:
+      C-36: "Spleen removal or non-functioning"
+      H-36: "Check this box if your spleen has been surgically removed (e.g., as a
+        result of trauma or a motor vehicle accident), or if its function is impaired
+        due to disease (if in doubt, consult your physician). Synonym: Splenectomy,
+        asplenia."
+    Uro-nephrology:
+      C-1110: "Relapsing nephrotic syndrome"
+      C-18: "Chronic renal failure NOT on dialysis"
+      C-6: "Nephrotic syndrome"
+      C-17: "Chronic renal failure on dialysis"
+      C-5: "Severe chronic kidney disease"
+      H-5: "This includes glomerulonephritis, pyelonephritis, vascular nephropathy,
+        interstitial nephritis, and hereditary or congenital kidney diseases with
+        a chronic course. The severity of the disease is assessed by the physician."
+      C-1095: "Other chronic kidney diseases"
+    Maladie rare:
+      AnDDI-Rares:
+        C-873: "Pulmonary fibrosis"
+        H-873: "Congenital, acquired or ventilation dependent"
+      BRAIN-TEAM:
+        C-876: "Cerebral venous thrombosis"
+        C-878: "Cerebral arteriovenous malformation"
+        C-877: "Hereditary cervical and cerebral artery dissection"
+        C-875: "CADASIL or related familial vascular leukoencephalopathy"
+        H-875: "CADASIL: Cerebral Autosomal Dominant Arteriopathy with Subcortical
+          Infarcts and Leucoencephalopathy."
+        C-874: "moyamoya angiopathy"
+        C-879: "Hereditary cerebral cavernoma"
+      FAI2R:
+        C-880: "Rare systemic autoimmune disease with immunosuppressive therapy"
+        H-880: "Immunosuppressive therapy:Patients who will receive corticosteroids
+          (;gt;15 mg for more than 3 weeks)Patients who will receive immunosuppressive
+          drugs and RITUXIMAB"
+      FILFOIE:
+        C-881: "Rare liver disease under immunosuppressive therapy"
+        H-881: "Especially autoimmune hepatitis (with or without transplant)."
+        C-882: "Intracellular trafficking deficiency in children (NBAS: neuroblastoma
+          amplified sequence)"
+      FILNEMUS:
+        C-883: "Myopathy with forced vital capacities lower than 70"
+      FILSLAN:
+        C-884: "Amyotrophic lateral sclerosis (ALS)"
+      FIMARAD:
+        C-885: "Incontinentia pigmenti"
+      FIMATHO:
+        C-886: "Autoimmune pancreatitis (with or without immunosuppressant) type 1
+          (IgG4 disease)"
+      MARIH:
+        C-887: "AIRE, NFBK2 and interferon deficiency"
+        C-889: "SASH3: exceptional form which sometimes associates neutropenia with
+          a lymphocyte deficit"
+        C-888: "Defect in production or response to interferon alpha"
+        H-888: "Includes IFNAR, UNC and TLR3 defects."
+      MHémo:
+        C-890: "Immune complication in the form of antibodies directed against their
+          usual therapeutic principle"
+        H-890: "For example, hemophilia with anti-factor VIII or anti-factor IX antibodies)."
+        C-892: "Constitutional bleeding disease with identified comorbidity (hepatitis
+          C, hypertension, diabetes, etc.)"
+        C-891: "Constitutional bleeding disease with treatment by a drug in clinical
+          trial"
+      ORKiD:
+        C-894: "ANCA vasculitis under immunosuppressive treatment"
+        H-894: "Immunosuppressive therapy that puts the individual at increased risk
+          for severe covid 19."
+        C-896: "Other vasculitis under immunosuppressive treatment"
+        H-896: "Immunosuppressive therapy that puts the individual at increased risk
+          for severe covid 19."
+        C-895: "Rheumatoid purpura nephropathy under immunosuppressive therapy"
+        H-895: "Immunosuppressive therapy that puts the individual at increased risk
+          for severe covid 19."
+        C-893: "Active SNI (SNLGM or HSF) or active GEM and/or immunosuppressive therapy"
+        H-893: "Immunosuppressive treatment that puts the person at increased risk
+          of a severe form in case of covid 19: prolonged corticosteroid therapy,
+          anti CD20, mycophenolate mofetil, azathioprine, cyclophosphamide, anticalcineurins
+          (Ciclopsorine, Prograf)."
+        C-898: "Glomerulonephritis with C3 deposits under immunosuppressive treatment"
+        H-898: "Immunosuppressive therapy that puts the individual at increased risk
+          for severe covid 19."
+        C-897: "Glomerulonephritis with IgA mesangial deposits under immunosuppressive
+          treatment"
+        H-897: "Immunosuppressive therapy that puts the individual at increased risk
+          for severe covid 19."
+      OSCAR:
+        C-899: "APECED or autoimmune polyendocrinopathy type 1"
+        C-900: "Constitutional bone pathology with complications"
+        H-900: "With respiratory failure, restrictive syndrome/chest deformity, renal
+          failure, multiorgan involvement or immune deficiency."
+      RESPIFIL:
+        C-949: "Severe extrapulmonary restrictive pathology"
+        H-949: "With or without ventilatory assistance."
+        C-903: "Pulmonary hypertension associated with chronic respiratory diseases
+          (PH-CDR)"
+        C-904: "Pulmonary fibrosis associated with connectivitis"
+        H-904: "Connectivites: systemic scleroderma, rheumatoid arthritis, other connectivites."
+        C-901: "Pulmonary Arterial Hypertension (PAH)"
+        C-905: "Pulmonary fibrosis secondary to pneumoconiosis"
+        H-905: "Pneumoconiosis: occupational lung disease."
+        C-872: "Idiopathic pulmonary fibrosis"
+    Cancer:
+      C-404: "Cancer or hematological malignancy"
+      H-404: "Any type of cancer or leukemia within the last 3 years and active, which
+        may lead to immunosuppression."
+      C-924: "Chronic lymphocytic leukemia"
+    Diabetes:
+      C-733: "Treated diabetes"
+      H-733: "Oral anti-diabetic medication or insulin."
+      C-958: "Diabetes"
+      H-958: "Regardless of the type of diabetes"
+      C-305: "Diabetes controlled by diet"
+    Inflammatory or autoimmune disease:
+      C-426: "Progressive generalized scleroderma"
+      H-426: "Generalities. Systemic scleroderma is a disease that primarily affects
+        the small vessels (arterioles and capillaries) of the whole body and is accompanied
+        by generalized fibrosis. Immune dysfunctions, in particular inflammation and
+        autoimmunity, seem to play an important role in this disease. The tissues
+        and organs concerned are the skin, the lungs, the digestive tract, the kidneys
+        and the heart."
+      C-470: "Inflammatory rheumatism"
+      H-470: "One million people are affected in France. Examples:Rheumatoid arthritisPsoriatic
+        arthritisAnkylosing spondylitisJuvenile arthritis"
+      C-469: "Periarteritis nodosa"
+      H-469: "Generalities. Periarteritis nodosa (PAN) is a disease caused by the
+        inflammation of certain blood vessels. This inflammation impedes the flow
+        of blood to the various organs, whose function may then be impaired. NAP affects
+        all populations and all ages, including children, although it occurs more
+        frequently between the ages of 40 and 60. The most frequently affected organs
+        are the skin, kidneys, nervous system, muscles, digestive tract and heart.
+        The most common signs are rapid weight loss, severe fatigue, muscle pain and
+        fever.Treatment. The disease can be cured in about two out of three cases."
+      C-424: "Systemic lupus erythematosus"
+      H-424: "Definition. Systemic lupus erythematosus (SLE) is a disease of autoimmune
+        origin, characterized by the presence of autoantibodies (i.e. directed against
+        our own body). Clinical signs. It is a disease that affects different organs,
+        which explains the great variety of signs of the disease. The most frequent
+        signs are fatigue, fever, skin and joint signs. The most severe manifestations
+        are related to kidney damage, neurological disorders, anemia or low platelet
+        count. Treatment. The goals of treatment are to treat acute episodes, reduce
+        the risk of relapse, and improve the quality of daily life. Hydroxychloroquine
+        and non-steroidal anti-inflammatory drugs are indicated for moderate forms
+        of LEAD; corticosteroids and immunosuppressants are reserved for more severe
+        disease. LEAD is a long-term disease (ALD 21)."
+      C-427: "Multiple sclerosis"
+      H-427: "Multiple sclerosis (MS) is a chronic inflammatory neurological disease
+        that most often progresses in attacks that are difficult to predict and vary
+        in intensity. It begins on average at the age of 30 (between 20 and 40) and
+        affects women more frequently."
+      C-425: "Systemic vasculitis (severe form)"
+      H-425: "Vasculitides are inflammatory diseases of the vascular wall."
+      C-472: "Other autoimmune disease"
+      H-472: "Autoimmune diseases are a group of diseases related to the immune system.
+        They are characterized by an aggression of the body by its own immune cells.
+        Treatments for this type of disease are therefore aimed at suppressing the
+        over-reactive immune system and are called \"immunosuppressants\". Examples:
+        Gougerot-Sjögren syndrome Dermatomyositis Polymyositis"
+      C-471: "Chronic inflammatory bowel disease"
+      H-471: "Hemorrhagic rectocolitis (lesions limited to the colon and rectum) and
+        Crohn's disease, which can affect the entire digestive tract."
+    Hematology - Hemostasis:
+      Hemoglobin anomaly:
+        C-7: "Double heterozygous sickle cell disease"
+        H-7: "Double heterozygous sickle cell disease : Hb S/C, Hb SE or thalasso-sickle
+          cell disease."
+        C-23: "Homozygous sickle cell disease"
+        H-23: "Sickle cell anemia is a constitutional corpuscular hemolytic anemia
+          related to a structural abnormality of hemoglobin. It is a hereditary disease
+          that is widespread throughout the world, mainly among blacks in equatorial
+          Africa, but also in the Mediterranean region, the Middle East, the Indian
+          continent and areas where these populations migrate (e.g. black Americans).
+          Heterozygous subjects are asymptomatic and clinically healthy, and SS homozygotes
+          are ill. Other Hb abnormalities can be associated with sickle cell disease:
+          HbC, a ;#61538;;#61472;or ;#61537;thalassemia (double heterozygotes). The
+          disease is characterized by acute attacks of occlusion of small arteries
+          (vaso-oclusive attacks). and is complicated by hemolysis. The main expression
+          is intense pain accompanied by fever."
+        C-8: "Sickle cell disease"
+        H-8: "It is the association of two hemoglobin abnormalities in the heterozygous
+          state, namely sickle cell disease and thalassemia. These two associated
+          anomalies lead to a hematological disease that is most often symptomatic."
+      Coagulation disorder:
+        C-16: "Hemophilia"
+        H-16: "Hemophilia is a bleeding disorder caused by a lack of clotting proteins.
+          This results in more frequent bleeding and hematoma at the slightest trauma.
+          This disease is most often contracted at birth. Forms appearing in adulthood
+          are exceptional."
+        C-479: "Thrombocytopenia"
+        H-479: "Also called thrombocytopenia. It is a decrease in platelets as shown
+          by a blood test, exposing the patient to a greater risk of bleeding."
+        C-477: "Thrombocytopenic purpura"
+        H-477: "Thrombocytopenic purpura corresponds to a decrease in platelets leading
+          to small superficial bleeding on the skin called purpura. The decrease in
+          platelets is demonstrated on a blood test. The significant drop in platelets
+          can in some cases lead to bleeding (nosebleed, oral bleeding, hematoma...)"
+      C-484: "Autoimmune hemolytic anemia"
+      C-543: "Paroxysmal nocturnal hemoglobinuria"
+      C-20: "Person likely to receive massive or iterative transfusions"
+    C-909: "Chronic poly-pathology"
+    H-909: "Two or more of the following conditions: chronic obstructive pulmonary
+      disease, cancer (oncologic or hematologic) active or with recent chemotherapy,
+      diabetes, severe chronic kidney disease (including those requiring dialysis),
+      complicated hypertension, obesity (;#8805; 30 kg/m2), heart failure, chronic
+      respiratory failure, organ or marrow transplantation, and trisomy 21, a rare
+      disease (see list in the corresponding section)"
+    C-1094: "Other chronic metabolic diseases"
+  Entourage:
+    C-1002: "Date of last contact with a person at risk of monkeypox"
+    H-1002: "There are two risk situations: \n - Any person who has had unprotected
+      direct physical contact with the injured skin or biological fluids of a symptomatic
+      probable or confirmed case, under any circumstances including sexual intercourse,
+      medical or paramedical care, or sharing of toiletries, or contact with textiles
+      (clothing, linens, bedding) or dirty dishes used by the symptomatic probable
+      or confirmed case.\n- Any person who has had unprotected contact within 2 meters
+      for 3 hours (accumulated over 24 hours) with a probable or confirmed symptomatic
+      case (e.g. close or intimate friend, usual sexual partner even in the absence
+      of sexual intercourse, persons sharing the same living space without intimate
+      relationship, neighbor for long term transportation, persons sharing the same
+      office, health care or hygiene act, same school class, university TD room, sports
+      club for contact sports, sports halls...)."
+    C-1033: "Person at high risk of severe covid in the entourage"
+    C-49: "Regular contact with adults from a country with a high incidence of tuberculosis"
+    H-49: "the entire African continent;the entire Asian continent, including the
+      countries of the Near and Middle East;the countries of Central and South America;the
+      countries of Central and Eastern Europe, including the countries of the former
+      USSR;in the European Union: Bulgaria, Estonia, Hungary, Latvia, Lithuania, Poland,
+      Portugal, Romania."
+    C-1003: "Birth weight (in grams)"
+    C-271: "Infant under 6 months of age, premature or chronically ill living in the
+      person's environment"
+    H-271: "That is, if the infant is less than 6 months old and has one of the following
+      risk factors for severe influenzapremature, especially if he or she has respiratory
+      sequelae such as bronchodysplasia treated during the previous six months by
+      mechanical ventilation or prolonged oxygen therapy or continuous drug treatment
+      (corticosteroids, bronchodilators or diuretics),with heart disease,with congenital
+      immune deficiency (i.e., acquired at birth),with pulmonary, neurological or
+      neuromuscular disease,treated for a long-term condition.If in doubt, ask your
+      doctor for advice. The notion of entourage includes the family environment (people
+      living under the same roof), the nanny and all the people having regular contact
+      with the infant."
+    C-47: "Immunocompromised person in the entourage"
+    H-47: "The environment of immunocompromised persons is a potential source of transmission
+      of infectious agents by air or skin. Because of the uncertainties about the
+      efficacy of vaccination in immunocompromised persons and the contraindication
+      of live vaccines in these patients, it is strongly recommended that, in order
+      to create a \"circle of protection\", the vaccination status of their immediate
+      circle be checked and updated as necessary in accordance with the current vaccination
+      schedule. The immediate environment is defined as any person living in the same
+      household or likely to provide care (childminder, family, caretaker, etc.) and
+      the health personnel likely to take care of them."
+    C-1124: "Date de l'administration du vaccin anti-VRS à la mère pendant la grossesse"
+    C-411: "Newborns of HIV-infected mothers"
+    C-174: "Family history of tuberculosis (collateral or direct ascendants)"
+    H-174: "Collateral or direct ascendants (parent or grandparent, brother or sister)"
+    C-363: "Family of a soldier on a mission abroad"
+    C-298: "Close and prolonged family contact with an infant under 6 months of age"
+    H-298: "This includes family members who live in the same household. Grandparents
+      and babysitters (if regular activity) may also be concerned."
+    C-53: "Pregnant woman in the entourage"
+    H-53: "The people who should check this box are in particular: the spouse and
+      children of the pregnant woman; any person likely to be in close and lasting
+      contact with the future infant during its first 6 months (this can concern grandparents,
+      babysitters...). But only if the pregnant woman is not vaccinated against pertussis."
+    C-122: "Person infected with the hepatitis B virus or chronic carrier of the HBs
+      antigen in the entourage"
+    H-122: "These are people infected with the hepatitis B virus (or HBV) or carriers
+      of HBs antigen (a biological marker that indicates chronic HBV infection). The
+      persons concerned are those living in the same household."
+    C-635: "Patient with a complement deficiency or treated with Soliris® (eculizumab)
+      or Ultomiris® (ravulizumab) in the family"
+    H-635: "Check this box if a person living or staying in the same household has
+      a complement deficiency (terminal fraction or properdin) or is being treated
+      with Soliris® (eculizumab) is an anti-C5 therapy that inhibits the action of
+      complement. Complement is a group of proteins (C5 being one of them) with anti-bacterial
+      properties, which play an important role in inflammation and immunity. Soliris®
+      is indicated for the treatment of paroxysmal nocturnal hemoglobinuria or atypical
+      hemolytic uremic syndrome (atypical HUS). The fragility of these patients with
+      a complement deficiency (congenital deficiency or deficiency linked to treatment
+      with Soliris®) for certain infections explains why vaccine recommendations apply
+      to their entourage."
+    C-173: "One of the parents is from a country with a high incidence of tuberculosis"
+    H-173: "the entire African continent;the entire Asian continent, including the
+      countries of the Near and Middle East;the countries of Central and South America;the
+      countries of Central and Eastern Europe, including the countries of the former
+      USSR;in the European Union: Bulgaria, Estonia, Hungary, Latvia, Lithuania, Poland,
+      Portugal, Romania."
+    C-15: "Newborn of a mother with HBsAg"
+    H-15: "HBs antigen is a component of the hepatitis B virus. Carrying the HBs antigen
+      means that you are living with the hepatitis B virus. Carrying the HBs antigen
+      can go unnoticed and not cause any signs of hepatitis B. However, it can lead
+      to infection in newborns."
+    C-115: "Family member from a country with high endemicity for hepatitis A and
+      possible stay in that country"
+    H-115: "Most countries with low levels of hygiene are concerned (Africa, tropical
+      Asia, South America, Eastern Europe...). Consult your doctor for more information."
+    C-144: "Family receiving CMU, CMUc or AME"
+    H-144: "The Universal Health Coverage (CMU) is a compulsory health protection
+      for people living in France who are not already covered by another compulsory
+      health insurance scheme. The complementary C.M.U. (CMUc) is a complementary
+      protection (comparable to a mutual insurance company) granted on a means test.
+      The Aide Médicale de l'Etat (AME) allows access to health care for foreigners
+      living in France."
+    C-1001: "Contact person at risk of mpox"
+    H-1001: "There are two risk situations:\n- Any person who has had unprotected
+      direct physical contact with the injured skin or biological fluids of a symptomatic
+      probable or confirmed case, under any circumstances including sexual intercourse,
+      medical or paramedical care, or sharing of toiletries, or contact with textiles
+      (clothing, linens, bedding) or dirty dishes used by the symptomatic probable
+      or confirmed case.\n- Any person who has had unprotected contact within 2 meters
+      for 3 hours (accumulated over 24 hours) with a probable or confirmed symptomatic
+      case (e.g. close or intimate friend, usual sexual partner even in the absence
+      of sexual intercourse, persons sharing the same living space without intimate
+      relationship, neighbor for long term transportation, persons sharing the same
+      office, health care or hygiene act, same school class, university TD room, sports
+      club for contact sports, sports halls...)."
+    C-1086: "Child born to a mother vaccinated against RSV during pregnancy"
+    H-1086: "For the child to be protected, the mother must have received the RSV
+      vaccine ABRYSVO between 32 and 36 weeks of pregnancy."
+  Traitements:
+    En attente d'instauration d'un traitement ayant une influence sur l'immunité:
+      C-835: "Pending initiation of therapy that affects immunity"
+    Traitement(s) ayant une influence sur l'immunité:
+      C-938: "Unused - Treatment with anti-SARS-CoV-2 monoclonal antibodies"
+      C-1031: "End date of chemotherapy for hematological malignancy (leukemia)"
+      C-992: "End date of chemotherapy for solid tumor (cancer)"
+      C-928: "Treatment with anti-SARS-CoV-2 monoclonal antibodies"
+      C-578: "Ongoing chemotherapy for solid tumor (cancer)"
+      H-578: "Chemotherapy for solid tumor (colon, breast, lung, etc.). If chemotherapy
+        has been completed, please fill in the cancer chemotherapy completion date."
+      C-541: "Anti-C5 treatment: Soliris® (Eculizumab) or Ultomiris® (ravulizumab)"
+      H-541: "Soliris® (eculizumab) is an anti-C5A treatment that inhibits the action
+        of complement. Complement is a group of proteins (C5A being one of them) with
+        anti-bacterial properties, which play an important role in inflammation and
+        immunity. Soliris® is indicated for the treatment of patients (children or
+        adults) with: paroxysmal nocturnal hemoglobinuria (PNH) (evidence of clinical
+        benefit of Soliris® in the treatment of patients with this condition is limited
+        to those with a history of transfusions); atypical hemolytic uremic syndrome
+        (atypical HUS).Ultomiris® (ravulizumab), approved by the European Medicines
+        Agency in 2019, is indicated for use in the treatment of adult patients with
+        HPN in patients who present with hemolysis with clinical symptom(s) indicating
+        high disease activity and in patients who are clinically stable after treatment
+        with eculizumab for at least the last 6 months."
+      C-413: "Other immunosuppressive therapy"
+      H-413: "These may include treatments administered to patients with autoimmune
+        diseases, organ or bone marrow transplants, or cancer (chemotherapy, radiotherapy).
+        These treatments reduce the immune defenses and expose the patient to an increased
+        risk of infections, which may justify certain vaccinations. Conversely, they
+        may contraindicate other vaccinations (particularly with a live vaccine).
+        It is therefore necessary to adapt the vaccination schedule. Do not hesitate
+        to ask your doctor for advice if you think you may be concerned by this type
+        of treatment. After stopping immunosuppressive treatment, the period of time
+        to be respected for the administration of a live vaccine varies. Examples
+        of immunosuppressive treatments (non-exhaustive list): corticosteroids, methotrexate,
+        ciclosporin, tacrolimus, azathioprine or cyclophosphamide."
+      C-141: "Prolonged or high-dose corticosteroid therapy"
+      H-141: "With regard to corticosteroid therapy, the dose and duration beyond
+        which the administration of a live vaccine is contraindicated (immunosuppressive
+        corticosteroid therapy) are as follows:In adults10 mg prednisone equivalent/day
+        for more than two weeks.In children;lt;= 10 kg:2 mg/kg prednisone equivalent/day
+        for more than 2 weeks > 10 kg & > 20 mg/day for more than 2 weeks.bolus corticosteroids
+        contraindicate the administration of a live vaccine during the following three
+        months. Bolus = large doses of cortisone administered into a vein (intravenous).After
+        the cessation of immunosuppressive corticosteroid therapy, the period of time
+        to be respected for the administration of a live vaccine is variable. Ask
+        your doctor for advice on whether your treatment should be considered prolonged
+        steroid therapy."
+      C-579: "Biotherapy leading to immunosuppression"
+      H-579: "Biotherapies are directed against a specific immune target, the most
+        commonly used being anti-TNF and anti-IL-1. They are indicated for inflammatory
+        rheumatism and autoimmune diseases. Currently, anti-TNF therapies are the
+        reference treatment for severe and active forms of rheumatoid arthritis and
+        spondyloarthropathy.Examples of drugs used are infliximab (Inflectra®, Remicade®,
+        Remsima®), adalimumab (Humira®, Trudexa®), etanercept (Enbrel®), anakinra
+        (Kineret®), rituximab (MabThera®), abatacept (Orencia®), and brodalumab (Kyntheum®).
+        It is at least three months (six months after rituximab treatment)."
+      C-917: "Strong immunosuppressive treatment (covid)"
+      H-917: "Information used for anti-covid 19 vaccination only. These are:lymphopenic
+        chemotherapy;antimetabolites (cellcept, myfortic, mycophenolate mofetil, imurel,
+        azathioprine);anti-CD20 (rituximab: Mabthera, Rixathon, Truxima)."
+      C-834: "Sickle cell disease treated with hydroxyurea (Hydrea, Siklos)"
+      H-834: "Low-dose hydroxyurea is regularly prescribed to people with sickle cell
+        disease to prevent recurrent painful vaso-occlusive crises in children over
+        two years of age and in adults with symptomatic sickle cell disease. Two drugs
+        are prescribed in this context, Hydrea and Siklos. There is no clinical evidence
+        of immunosuppression induced by low-dose hydroxyurea in sickle cell disease
+        patients, and the available data suggest that live vaccines could probably
+        be administered to subjects treated with low-dose hydroxyurea. However, the
+        MA for Hydrea, which is used off-label in sickle cell disease, contraindicates
+        this drug in combination with live attenuated vaccines. The MA for Siklos
+        advises against the concomitant use of hydroxycarbamide with a live virus
+        vaccine. It states that treatment with Siklos and concomitant immunization
+        with live virus vaccines should be performed only if the benefits clearly
+        outweigh the potential risks."
+      C-1091: "Normal human immunoglobulin: date of last injection"
+      C-594: "Ongoing chemotherapy for hematological malignancy (leukemia)"
+      H-594: "Ongoing chemotherapy for leukemia: This is a heavy treatment to destroy
+        tumor cells, but can also weaken the body and cause immunosuppression during
+        treatment and for several months afterwards. If chemotherapy has been completed,
+        please fill in the date of completion of chemotherapy for leukemia."
+    Autre(s) traitement(s):
+      C-931: "Mother who received Infliximab during pregnancy or breastfeeding"
+      H-931: "Infliximab is marketed under the following names: REMICADE, FLIXABI,
+        INFLECTRA, REMSIMA and ZESSLY."
+      C-1097: "Long-term treatment with acetylsalicylic acid"
+      C-478: "Anticoagulant treatment"
+      H-478: "Anticoagulant treatment is used to thin the blood in certain venous
+        pathologies (deep vein thrombosis, pulmonary embolism) or cardiac pathologies
+        (arrhythmia in particular). The main molecules used are fluidione (Previscan)
+        and coumadin (Sintron)."
+  Examens biologiques:
+    Hépatite A:
+      C-1040: "Anti-HAV Ac (IgG or total Ig in IU/L)"
+      H-1040: "This serology consists of detecting the presence of total antibodies
+        (IgG and IgM) against the hepatitis A virus (HAV). A positive serology performed
+        before vaccination (pre-vaccination serology) indicates the previous occurrence
+        of hepatitis A. Hepatitis A can occur in children without clinical signs.
+        People who have had hepatitis A are definitely protected against this disease
+        and vaccination against hepatitis A is not necessary. Hepatitis A serology,
+        performed after vaccination, can be used to verify the efficacy of vaccination,
+        particularly in immunocompromised individuals. The threshold of positivity
+        is 20 IU/L."
+      C-1041: "Date of anti-HAV serology (IgG or total Ig)"
+      H-1041: "The date of anti-HAV serology (hepatitis A serology detecting IgG or
+        total Ig) may be useful for its interpretation, depending on whether it is
+        performed before or after vaccination."
+      C-736: "Positive post-vaccination hepatitis A serology"
+      H-736: "This serology consists of measuring total HAV antibodies after a complete
+        hepatitis A vaccination regimen. If in doubt, do not check this box."
+      C-396: "Positive pre-vaccination hepatitis A serology"
+      H-396: "This serology consists of detecting the presence of total antibodies
+        (IgG and IgM) against the hepatitis A virus (HAV). A positive serology indicates
+        the previous occurrence of hepatitis A. Hepatitis A can occur in children
+        without clinical signs. If you have already had hepatitis A, you are definitely
+        protected against this disease and vaccination against hepatitis A is not
+        necessary."
+      C-737: "Negative post-vaccination hepatitis A serology"
+      H-737: "This serology consists of a determination of total anti-HAV antibodies."
+    Rougeole:
+      C-161: "Positive measles serology"
+      H-161: "If in doubt, ask your doctor."
+    Oreillons:
+      C-288: "Positive mumps serology"
+      H-288: "A positive mumps serology alone does not indicate a history of mumps."
+    Rubéole:
+      C-163: "Negative rubella serology"
+      C-164: "Positive rubella serology"
+      C-655: "Rubella serology unknown or not done"
+    Varicelle:
+      C-46: "Negative chickenpox serology"
+      C-158: "Positive chickenpox serology"
+      C-365: "Chickenpox serology unknown or not done"
+    Covid 19:
+      Test RT-PCR positif:
+      Test antigénique positif:
+        C-913: "Positive covid 19 antigenic test"
+      Sérologie positive:
+        C-920: "Positive covid 19 serology after vaccination"
+      C-965: "Date of last quantitative covid anti-S serology performed"
+      H-965: "Date of last quantitative covid anti-S serology performed"
+      C-839: "Positive covid 19 serology before vaccination"
+      C-964: "Result of the last anti-S quantitative covid serology performed (BAU/mL)"
+      H-964: "This serology is used to guide vaccination against covid in severely
+        immunocompromised individuals."
+      C-921: "Positive covid RT-PCR test (SARS-CoV-2) showing infection within 15
+        days of vaccination"
+      C-829: "RT-PCR covid test (SARS-CoV-2) positive"
+      H-829: "Direct detection of SARS-CoV-2 coronavirus, which causes covid 19, in
+        a throat or nasopharyngeal swab specimen. It may also be another respiratory
+        specimen."
+    Anticorps antitétaniques:
+      C-990: "Tetanus antibody test (IU/L)"
+      H-990: "This test should be carried out between 4 and 8 weeks after administration
+        of a dose of vaccine containing the tetanus valency combined with other valencies.
+        A high value indicates the existence of a booster effect and means that the
+        person has already been vaccinated."
+      C-993: "Date of tetanus antibody test"
+      H-993: "This test should be carried out between 4 and 8 weeks after administration
+        of a dose of vaccine containing the tetanus valency combined with other valencies."
+    Hépatite B:
+      Anti-HBs:
+        C-1004: "Date of anti-HBs serology"
+        C-439: "Anti-HBs unknown"
+        C-989: "Anti-HBs Ac (IU/L)"
+        C-195: "Ac anti-HBs sup. 100 UI/L"
+        C-193: "Absence d'Ac anti-HBs (inf. 10 UI/L)"
+        C-194: "Ac anti-HBs entre 10 UI/L et 100 UI/L"
+      Anti-HBc:
+        C-577: "anti-HBc negative"
+        C-576: "anti-HBc positive"
+      Ag HBs:
+        C-431: "HBsAg negative"
+        C-432: "HBsAg positive"
+      ADN VHB:
+        C-601: "HBV DNA negative"
+        C-600: "HBV DNA positive"
+        C-602: "HBV DNA unknown"
+    VIH:
+      C-933: "CD4 rate"
+    Bilan biologique d'ostéoporose:
+    Rage:
+      C-1064: "Last rabies serology result (IU/mL)"
+      H-1064: "The threshold for positive rabies serology using the ELISA technique
+        is set at 0.5 IU/mL. "
+      C-1063: "Date of last rabies serology"
+    Tuberculosis:
+      C-988: "IDR (mm)"
+      H-988: "Intradermal tuberculin test"
+      C-1078: "Intermediate IGRA"
+      C-1077: "IGRA negative"
+      C-1076: "IGRA positive"
+      C-1080: "QUANTIFERON (result in IU/L)"
+      H-1080: "0 to 10 IU/L"
+      C-1079: "Date of last IGRA test performed"
+  Situation d'urgence:
+    Contact avec un cas d'hépatite A:
+      C-393: "Sharing precarious hygiene conditions with a patient with confirmed
+        hepatitis A"
+      H-393: "The exposed population is defined by the epidemiological investigation
+        conducted by the Ddass."
+      C-392: "Close contacts of a person with hepatitis A"
+      H-392: "This includes the family circle of a person with hepatitis A, or anyone
+        living in the same household as the person with hepatitis A, in order to avoid
+        intrafamilial dissemination."
+    Suspicion d'exposition a la rage:
+      Statut de l'animal (vivant, mort, disparu):
+        C-506: "Dead animal"
+        C-513: "Missing animal"
+        C-486: "Dead animal"
+        C-487: "Missing animal"
+        C-485: "Living animal"
+      Suveillance vétérinaire:
+        Diagnostic biologique:
+          C-489: "Biological diagnosis impossible"
+        Possible:
+          C-494: "Positive veterinary surveillance result"
+          C-495: "Result of the ongoing veterinary surveillance"
+          C-493: "Negative veterinary surveillance result"
+        C-488: "Veterinary surveillance not possible"
+      Contact direct avec un mammifére dans un pays d'enzootie rabique:
+        Type d'animal:
+          C-501: "Direct contact in a rabies-free country with any type of rodents
+            or lagomorphs"
+          C-502: "Direct contact in a rabies-free country with chiropterans or mustelids"
+          C-503: "Direct contact in a rabies-free country with dogs, cats or ferrets."
+          C-504: "Direct contact in a rabies-free country with other mammals: Wildlife,
+            Deer, Cattle, Sheep, Goat, Equine ...."
+        Possible:
+          C-499: "Negative biological diagnosis result"
+          C-498: "Result of the positive biological diagnosis"
+          C-497: "Result of the biological diagnosis in progress"
+        Type d'animal2:
+          C-490: "Direct contact with a domestic animal (dog, cat, ferret) whose owner
+            is known in a rabies enzootic zone."
+          C-492: "Direct contact with another mammal (dog, cat, ferret, rat, squirrel,
+            deer, bovine, ovine, caprine, equine, chiropteran, wildlife) in a rabies
+            enzootic area."
+          C-491: "Direct contact in a rabies enzootic area with a small rodent (excluding
+            rats and squirrels) or a lagomorph."
+      Contact avec un mammifère dans un pays indemne de rage:
+        Diagnostic biologique:
+          Possible:
+            C-512: "Positive biological diagnosis of rabies"
+          C-511: "Biological diagnosis of rabies impossible"
+      C-496: "No direct contact with the animal's saliva (untorn clothing, licking
+        on healthy skin)"
+    Contact avec un cas de rougeole:
+      Immunisation de la maman contre la rougeole:
+        C-702: "Measles immunization status of mother not specified"
+        C-545: "This baby's mother is considered to be non-immune to measles (no documented
+          history of measles, unvaccinated or vaccinated with only one dose)"
+        H-545: "Non-immune mother: check this box if no documented history of measles,
+          not vaccinated against measles or vaccinated with only one dose."
+        C-688: "This baby's mother is considered immune to measles (documented history
+          of measles or 2 doses of a measles vaccine)"
+        H-688: "Immunized Mom: Check this box if mom has a documented history of measles
+          or has received two doses of a measles vaccine. Consult your doctor quickly!"
+  Facteurs pouvant favoriser certaines maladies prévenues par les vaccins:
+    C-934: "Other risk factor for severe pneumococcal disease (child)"
+    H-934: "Groups of children at high risk for invasive pneumococcal infection include:\n
+      - Human immunodeficiency virus (HIV) infection\n- Sickle cell disease, functional
+      or anatomic asplenia\nCerebral-meningeal barrier defect/fistula\n- Cochlear
+      implant\n- Chronic diseases such as cardiovascular, pulmonary (except asthma),
+      hepatic, nephrotic syndrome, diabetes\n- Constitutional immune deficiencies
+      (including complement and properdin deficiencies) or secondary to immunosuppressive
+      treatments (lymphomas, leukemias, cancers, organ transplants)\n- Premature infants
+      with a gestational age of less than 32 weeks and infants with a birth weight
+      of less than 1,500 g are at transiently high risk of invasive pneumococcal infection
+      up to 24 months of age."
+  Divers:
+    Carnet perdu:
+      C-967: "Diphtheria-Tetanus-Polio (DTPolio) vaccination history unknown or incomplete"
+      H-967: "Lost notebook."
+    C-1092: "Scar from a smallpox vaccination"
+    H-1092: "Scar from an old smallpox vaccination by scarification."
+  Vaccinations non souhaitées:
+    C-1021: "Refusal of Meningococcal C Vaccination"
+    C-614: "Refusal to vaccinate against hepatitis B"
+    C-615: "Refusal to vaccinate against hepatitis A"
+    C-590: "Refusal of vaccination against pertussis"
+    C-1025: "Refusal of rotavirus vaccination"
+    C-831: "Refusal of dengue vaccination"
+    C-677: "Refusal of mumps vaccination"
+    C-665: "Refusal of shingles vaccination"
+    C-613: "Refusal of vaccination against diphtheria-tetanus-polio and/or pertussis"
+    C-622: "Refusal of flu vaccination"
+    C-620: "Refusal to vaccinate against typhoid"
+    C-865: "Refusal to vaccinate against covid 19"
+    C-628: "Refusal of vaccination against Japanese encephalitis"
+    C-624: "Refusal to vaccinate against chickenpox"
+    C-626: "Refusal of HPV vaccination"
+    C-617: "Refusal of Meningococcal C Vaccination"
+    C-619: "Meningococcal B vaccine refusal"
+    C-616: "Refusal of pneumococcal vaccination"
+    C-625: "Refusal of rabies vaccination"
+    C-675: "Refusal of Haemophilus influenzae type b vaccination"
+    C-591: "Refusal to vaccinate against measles, mumps and rubella"
+    C-621: "Refusal of yellow fever vaccination"
+    C-623: "Refusal of vaccination against tuberculosis (BCG)"
+    C-618: "Refusal of Meningococcal ACWY Vaccination"
+    H-618: "Often called meningitis vaccine, it prevents serious infections (meningitis
+      or septicemia) due to meningococcal serogroups A, C, W or Y. There are two such
+      vaccines marketed in France: the Menveo vaccine and the Nimenrix vaccine."
+    C-627: "Refusal of tick-borne encephalitis vaccination"
+  Contra-indications:
+    C-1020: "Contraindication to vaccination against meningococcal C"
+    C-1023: "Contraindication to vaccination against meningococcal B"
+    C-1024: "Contraindication to HPV vaccination"
+    C-1018: "Contraindication to measles, mumps and rubella (MMR) vaccination"
+    C-1014: "Contraindication to vaccination against Haemophilus influenzae type b"
+    C-1016: "Contraindication to hepatitis B vaccination"
+    C-1017: "Contraindication to vaccination against pneumococcal disease"
+    C-1011: "Contraindication to vaccination against pertussis"
+    C-1022: "Contraindication to influenza vaccination"
+    C-1015: "Contraindication to hepatitis A vaccination"
+    C-968: "Contraindication to vaccination against covid 19"
+    C-1012: "Contraindication to vaccination against diphtheria, tetanus and poliomyelitis
+      (DTP)"
+    C-1019: "Contraindication to chickenpox vaccination"
+    C-1013: "Contraindication to yellow fever vaccination"
+  Medical history:
+    Infectious diseases:
+      COVID-19:
+        C-991: "Date of antepenultimate COVID-19"
+        H-991: "To be completed if you have had three separate documented infections
+          of covid 19: biological evidence is required (RT-PCR or antigenic test)
+          for each episode."
+        C-919: "Date of last COVID-19"
+        H-919: "Biological evidence is required (RT-PCR or antigenic test). Positive
+          serology indicates previous contact with the virus."
+        C-745: "Recent contact with a case of covid 19"
+        H-745: "Recent contact: last contact within the last 10 days. A contact at
+          risk is a person who, in the absence of effective protective measures for
+          the duration of the contact, has shared the same living space as the confirmed
+          or probable case; has had direct face-to-face contact with a case, within
+          one meter, for any length of time (e.g. conversation, eating, flirting,
+          hugging, kissing). However, people who are encountered in a public space
+          for a short period of time are not considered to be at-risk contacts;has
+          provided or received hygiene or health care services;has shared a confined
+          space (office or meeting room, personal vehicle, etc.) for at least 15 consecutive
+          or cumulative minutes over a 24-hour period with a case, or has been face-to-face
+          with a case during several episodes of coughing or sneezing;is a student
+          or teacher in the same school class (kindergarten, elementary, high school,
+          or a university tutorial group)A confined space is a space that does not
+          allow the social distancing criterion to be met, i.e. a minimum distance
+          of 2 meters around a person. Finally, the following are not considered effective
+          protective measures: a plexiglass plate placed on a counter, \"home-made\"\
+          \ fabric masks and transparent plastic visors worn alone."
+        C-837: "Person with signs of covid 19 with a positive RT-PCR test"
+        H-837: "Covid 19 can manifest itself by the sudden appearance of one or more
+          of the following signs: infectious signs (fever or feeling of fever, chills),
+          cough or respiratory discomfort, unexplained fatigue, unexplained aches
+          and pains, headaches outside of a known migraine, loss or reduction of sense
+          of smell and taste.In people over 80 years of age, other signs are suggestive:
+          decline in general condition, repeated falls, onset or worsening of cognitive
+          problems, confusion, diarrhea, worsening of a chronic disease.The diagnosis
+          of covid 19 in the acute period is based on the detection of the genetic
+          material of the virus in a nasopharyngeal or nasopharyngeal sample taken
+          with a swab (RT-PCR test)."
+        C-969: "Date of penultimate COVID-19"
+        H-969: "To be completed if you have had two or three separate documented infections
+          of covid 19: biological evidence is required (RT-PCR or antigenic test)
+          for each episode."
+        C-838: "Person with prolonged symptoms of covid 19 (long covid)"
+        H-838: "The definition of the group of patients with prolonged symptoms (sometimes
+          called \"covid long\") is not consensual. The frequency of these prolonged
+          symptoms varies from study to study but sometimes exceeds 50%. The most
+          frequently reported prolonged symptoms are fatigue, joint pain, chest pain,
+          palpitations, breathing difficulties, deterioration of cognitive status,
+          and decreased quality of life."
+        C-867: "Proven history of covid 19"
+        H-867: "Biological evidence is required (RT-PCR or antigenic test). A positive
+          serology test indicates previous contact with the virus if performed before
+          or at the same time as vaccination. Also complete the section on biological
+          tests and talk to your doctor."
+      C-1084: "Date du dernier antécédent de zona"
+      C-632: "Date of last history of pertussis"
+      H-632: "You must be sure that it is pertussis (proven by a biological test,
+        check with your doctor). It is estimated that a person who has had pertussis
+        is protected from getting a new pertussis infection for about 10 years. If
+        this box is checked, vaccination is not considered necessary. If the disease
+        occurred before the age of two, the vaccination program is continued as usual."
+      C-148: "History of rubella"
+      H-148: "Biological evidence is required. If you don't check this box, it means
+        you either haven't had rubella or you're not sure if you have. In the latter
+        case, consider asking your doctor."
+      C-147: "History of mumps infection"
+      H-147: "Biological evidence is required. If in doubt, do not check this box
+        and seek advice from your doctor."
+      C-42: "History of pulmonary or invasive pneumococcal infection"
+      H-42: "It is a history of pulmonary or invasive (meningitis, septicemia) pneumococcal
+        infection. If in doubt, ask your doctor for advice."
+      C-1083: "Antécédent de Zona"
+      C-699: "History of dengue confirmed by virus detection"
+      H-699: "To check this choice, the diagnosis of dengue must be documented and
+        proven by a virological test performed at the time of the onset of the disease
+        (see the medical file and ask your doctor for help)."
+      C-146: "History of measles"
+      H-146: "Certainty of diagnosis of measles is based on direct detection of the
+        virus (e.g., by PCR) or positive IgM serology at the time of the rash. This
+        box should only be checked if the diagnosis is certain."
+      C-145: "History of chickenpox"
+      H-145: "If in doubt, do not check this box and ask your doctor for advice."
+    Allergies:
+      C-840: "Allergy to penicillin: no particular contraindication to vaccines used
+        in France"
+      C-746: "Allergy to aminoglycosides (neomycin, kanamycin...)"
+      H-746: "Aminoglycosides are antibiotics."
+      C-202: "Egg allergy"
+      H-202: "Egg allergy. Egg allergy is one of the most common food allergies in
+        children (1-3% of children under 3 years of age). Since it usually disappears
+        with age, this allergy is much less common in adults. Most often, allergic
+        reactions occur shortly after eating eggs or foods containing eggs, especially
+        raw or undercooked eggs (homemade chocolate mousse, soft-boiled eggs, etc.).
+        The most common signs are redness and itching around the mouth, swelling of
+        the mouth or throat, hives, vomiting, discomfort, difficulty breathing or
+        low blood pressure. Chicken allergy. Chicken allergy refers to allergy to
+        chicken flesh, as opposed to feathers. If you think you may be allergic to
+        egg or chicken, see your doctor if you haven't already. Allergy to egg or
+        chicken may result in contraindication or precautions for use of certain vaccines
+        that may contain traces of egg or chicken."
+      C-866: "History of severe anaphylactic reaction to a vaccine, drug or food"
+      H-866: "Anaphylaxis is the most spectacular and dangerous form of allergy: the
+        outcome can be fatal. It can take different clinical forms, affecting one
+        or more organs with varying intensity: urticaria (rash similar to nettle stings),
+        facial edema and angioedema (laryngeal spasm), breathing difficulties, asthma
+        attack (bronchial spasm), digestive signs (abdominal pain, nausea, vomiting,
+        diarrhea), malaise (pallor, sensation of imminent death, drop in blood pressure),
+        loss of consciousness or even coma.Symptoms usually appear very quickly, within
+        minutes of contact with the allergen. In about 10% of cases, a second reaction
+        occurs a few hours after the initial reaction: this is known as biphasic anaphylaxis,
+        a phenomenon that justifies hospitalization for monitoring after anaphylaxis
+        has been observed.anaphylaxis is due to an inappropriate activation of cells
+        of the immune system, mast cells in the tissues and basophils in the blood,
+        causing a massive release of histamine, the molecule that causes symptoms,
+        in just a few seconds/minutes."
+      C-678: "History of allergy during a previous influenza vaccination"
+      C-871: "Person who has ever been prescribed an auto-injectable syringe of adrenaline"
+      H-871: "The self-injecting syringe is indicated for the emergency treatment
+        of severe allergic reactions (anaphylactic shock)."
+      C-910: "Allergy (other than anaphylaxis) to a previously administered vaccine"
+    Traumatologie:
+    Facteurs de risque d’ostéoporose:
+    Other medical histor:
+      C-1035: "Congenital malformation of the gastrointestinal tract that may predispose
+        to intussusception"
+      C-929: "Professional exposed to swine and avian influenza viruses"
+      C-995: "Number of weeks of pregnancy at birth for a premature baby"
+      H-995: "The duration of a normal pregnancy is 40 weeks. Most premature babies
+        are born between the 32nd and 37th week of pregnancy, but some can be born
+        as early as the 22nd week."
+      C-735: "History of thymus dysfunction"
+      H-735: "History of thymus dysfunction (including myasthenia gravis, thymoma,
+        thymectomy, mediastinal or thymic radiotherapy)."
+      C-1034: "History of intestinal intussusception"
+      C-930: "Severe or serious adverse event attributed to the first dose of covid
+        vaccine"
+      C-939: "Unused - Myocarditis or pericarditis associated with SARS-CoV-2 infection"
+      C-925: "Pediatric multisystemic inflammatory syndrome (PIMS) post covid 19"
+      H-925: "This disease most often occurs between the ages of 4 and 11."
+      C-300: "Child born prematurely"
+      H-300: "Child born before 37 weeks of amenorrhea."
+      C-940: "Unused - Myocarditis or pericarditis of etiology not related to SARS-CoV-2
+        infection, occurring prior to vaccination and still evolving."
+    C-1062: "Congenital tuberculosis"
+  root:
+  Examens complémentaires:
+    Imagerie médicale:
+      Radiologie:
+      Ostéodensitométrie:
+  TRAVEL:
+    Dates du séjour:
+    Conditions du séjour:
+      C-1029: "Intermediate living conditions"
+      C-1028: "Comfortable living conditions"
+      C-1068: "Staying in a rural area"
+      C-1075: "Stay during the rainy season"
+      C-1074: "Staying near pig farms"
+      H-1074: "Whatever the length of your stay."
+      C-1070: "A stay in a rural setting or in the forest"
+      C-1066: "Expatriation"
+      C-1073: "Stay in an area where flood irrigation is practised (rice paddies)"
+      H-1073: "Whatever the length of your stay."
+    Précisions concernant le voyage:
+      C-1065: "Pilgrimage to Mecca (Hajj or Umrah)"
+      H-1065: "Whether it is the major annual pilgrimage (Hajj) or the minor pilgrimage
+        (Umrah)."
+      C-1072: "Professionals working with patients suffering from cholera"
+      C-1069: "Outdoor exposure (cycling, camping, hiking, working outdoors)"
+      C-1067: "Close and prolonged contact with local people"
+      H-1067: "This question is asked because close and prolonged contact with the
+        local population can encourage the transmission of meningococcus. Meningococcus
+        is found in the throats of certain people known as \"meningococcus carriers\"\
+        . Transmission of meningococcus from one carrier to another via droplets of
+        saliva (which may then trigger meningitis) is facilitated by : \n- Close contact,
+        i.e. at a distance of less than 1 metre (saliva droplets are fairly heavy
+        and fall rapidly);\n- Frequent or prolonged contact (e.g. over an hour).\n
+        Examples of high-risk situations during your stay: staying with a local, going
+        to nightclubs, long or crowded journeys, playing contact sports, work placements
+        in schools, boarding schools, etc."
+      C-1071: "Working in the health or relief sector or with refugees in the country
+        visited"
+    Etats de l'Inde:
+      C-1126: "Andhra Pradesh"
+      C-1131: "Goa"
+      C-1132: "Gujarat"
+      C-1138: "Madhya Pradesh"
+      C-1127: "Arunachal Pradesh"
+      C-1128: "Assam"
+      C-1135: "Jharkhand"
+      C-1137: "Kerala"
+      C-1148: "Tamil Nadu"
+      C-1129: "Bihar"
+      C-1133: "Haryana"
+      C-1136: "Karnataka"
+      C-1140: "Manipur"
+      C-1146: "Rajasthan"
+      C-1147: "Sikkim"
+      C-1151: "Uttar Pradesh"
+      C-1153: "West Bengal"
+      C-1130: "Chhattisgarh"
+      C-1134: "Himachal Pradesh"
+      C-1139: "Maharashtra"
+      C-1142: "Mizoram"
+      C-1143: "Nagaland"
+      C-1149: "Telangana"
+      C-1150: "Tripura"
+      C-1141: "Meghalaya"
+      C-1144: "Odisha"
+      C-1145: "Punjab"
+      C-1152: "Uttarakhand"
+    Chine:
+      C-1030: "Adventurous living conditions"
+      C-1085: "Mother who received Abrysvo during pregnancy"
+    Taïwan:
+      C-1154: "Travel limited to Taipei and other large cities"
+    Australie:
+      C-1155: "Séjour en zone urbaine uniquement"
+    C-950: "Condition not used free"
+    C-1027: "Transit of less than 12 hours through the airport of a country at risk
+      of yellow fever transmission"
+    C-1125: "Séjour exclusif en zone montagneuse"
+    C-1026: "Transit of more than 12 hours through the airport of a country at risk
+      of yellow fever transmission"
+    C-1089: "Exposition au virus Mpox en zone endémique"

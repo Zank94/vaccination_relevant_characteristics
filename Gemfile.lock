@@ -15,6 +15,7 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.13.0)
     rspec-support (3.13.2)
+    siphash (0.0.1)
 
 PLATFORMS
   arm64-darwin-22
@@ -22,6 +23,7 @@ PLATFORMS
 
 DEPENDENCIES
   rspec (~> 3.4)
+  siphash (~> 0.0.1)
 
 BUNDLED WITH
    2.5.23
