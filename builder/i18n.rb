@@ -21,4 +21,3 @@ class I18n
     flat_translations
   end
 end
-
