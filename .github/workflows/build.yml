@@ -21,6 +21,7 @@ jobs:
           ruby-version: 3.4.1
       - name: Build
         run: |
+          bundle install
           mkdir -p ./build
           bundle exec ruby build.rb -f html > build/index.html
           bundle exec ruby build.rb -f json > build/conditions.json
