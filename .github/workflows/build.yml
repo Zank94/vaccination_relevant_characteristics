@@ -23,8 +23,10 @@ jobs:
         run: |
           bundle install
           mkdir -p ./build
-          bundle exec ruby build.rb -f html > build/index.html
-          bundle exec ruby build.rb -f json > build/conditions.json
+          bundle exec ruby build.rb -s dictionary -f html > build/index.html
+          bundle exec ruby build.rb -s dictionary -f json > build/conditions.json
+          bundle exec ruby build.rb -s changelog -f md > build/changelog.md
+          bundle exec ruby build.rb -s changelog -f html > build/changelog.html
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
         with:
