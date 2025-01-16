@@ -10,10 +10,22 @@ class HtmlBuilder
   HTML
 
   def build(conditions, output: $stdout)
-    version = `git describe`
     output << HEADER
     output << '<body><div class="container"><h1>Conditions dictionary</h1>'
-    output << <<~HTML
+    output << info_header
+    detail(conditions, output)
+    output << "</div></body></html>"
+  end
+
+  private
+
+  def info
+    @info ||= JSON.parse(`git --no-pager log -1 --pretty=format:'{"commit": "%H", "tag": "%D", "author": "%an", "date": "%ad", "message": "%s"}' $(git describe --tags --abbrev=0)`, symbolize_names: true)
+  end
+
+  def info_header
+    version = `git describe`
+    <<~HTML
     <table>
       <tr>
         <td><b>Version</b></td>
@@ -41,14 +53,6 @@ class HtmlBuilder
       </tr>
     </table>
     HTML
-    detail(conditions, output)
-    output << "</div></body></html>"
-  end
-
-  private
-
-  def info
-    @info ||= JSON.parse(`git --no-pager log -1 --pretty=format:'{"commit": "%H", "tag": "%D", "author": "%an", "date": "%ad", "message": "%s"}' $(git describe --tags --abbrev=0)`, symbolize_names: true)
   end
 
   def detail(conditions, output)
