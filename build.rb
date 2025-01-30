@@ -33,5 +33,5 @@ end
 
 i18n = I18n.new(YAML.load_file('./i18n/en.yml'))
 
-conditions = Loader.new(i18n).call
-builder.build(conditions)
+characteristics = Loader.new(i18n).call
+builder.build(characteristics)

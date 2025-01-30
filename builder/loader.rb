@@ -5,11 +5,11 @@ class Loader
   end
 
   def call
-    Dir.glob('conditions/**/*.yml').map do |file|
-      condition = YAML.load_file(file)
+    Dir.glob('characteristics/**/*.yml').map do |file|
+      characteristic = YAML.load_file(file)
       {
-        **condition,
-        'label_en' => @i18n.t("C-#{condition['id']}"),
+        **characteristic,
+        'label_en' => @i18n.t("C-#{characteristic['id']}"),
       }
     end
   end

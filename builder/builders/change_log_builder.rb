@@ -4,7 +4,7 @@ class ChangeLogBuilder
   def initialize(format)
     @format = format
   end
-  def build(_conditions, output: $stdout)
+  def build(_characteristics, output: $stdout)
     case @format
     when 'md'
       md(output)
@@ -14,7 +14,7 @@ class ChangeLogBuilder
       renderer = Redcarpet::Render::HTML.new
       markdown = Redcarpet::Markdown.new(renderer, extensions = {})
       html = markdown.render(markdown_string)
-      
+
       output << <<~HTML
       <html><head><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
@@ -67,10 +67,10 @@ class ChangeLogBuilder
       output << "\n"
     end
   end
-  
+
   private
 
   def execute_command(cmd)
     `#{cmd}`.strip
-  end  
+  end
 end

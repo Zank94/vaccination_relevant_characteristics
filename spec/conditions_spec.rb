@@ -1,15 +1,15 @@
 # frozen_string_literal: true
 require 'yaml'
 
-describe 'The conditions folder' do
-  Dir.glob('conditions/**/*').each do |file|
+describe 'The characteristics folder' do
+  Dir.glob('characteristics/**/*').each do |file|
     it "contain only yml and folder (#{file})" do
       expect(File.extname(file)).to eq('.yml').or eq('')
     end
   end
 
   describe 'yml files' do
-    Dir.glob('conditions/**/*.yml').each do |file|
+    Dir.glob('characteristics/**/*.yml').each do |file|
       context "(#{file})" do
         it "are valid yml files" do
           expect { YAML.load_file(file) }.not_to raise_error
@@ -18,7 +18,7 @@ describe 'The conditions folder' do
     end
 
     describe 'schema' do
-      Dir.glob('conditions/**/*.yml').each do |file|
+      Dir.glob('characteristics/**/*.yml').each do |file|
         context "for #{file}" do
           it "has the correct schema" do
             data = YAML.load_file(file)
@@ -44,7 +44,7 @@ describe 'The conditions folder' do
 
   describe 'data' do
     it 'has unique ids' do
-      ids = Dir.glob('conditions/**/*.yml').map do |file|
+      ids = Dir.glob('characteristics/**/*.yml').map do |file|
         YAML.load_file(file)['id']
       end
       expect(ids).to eq(ids.uniq)

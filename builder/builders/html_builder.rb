@@ -9,11 +9,11 @@ class HtmlBuilder
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css"></head>
   HTML
 
-  def build(conditions, output: $stdout)
+  def build(characteristics, output: $stdout)
     output << HEADER
-    output << '<body><div class="container"><h1>Conditions dictionary</h1>'
+    output << '<body><div class="container"><h1>Characteristics dictionary</h1>'
     output << info_header
-    detail(conditions, output)
+    detail(characteristics, output)
     output << "</div></body></html>"
   end
 
@@ -55,13 +55,13 @@ class HtmlBuilder
     HTML
   end
 
-  def detail(conditions, output)
-    conditions.each do |condition|
-      checksum = SipHash.digest('Weblate Sip Hash', "C-#{condition['id']}").to_s(16)
+  def detail(characteristics, output)
+    characteristics.each do |characteristic|
+      checksum = SipHash.digest('Weblate Sip Hash', "C-#{characteristic['id']}").to_s(16)
       output << <<~HTML
-        <details id="C-#{condition['id']}">
-          <summary>C-#{condition['id']} - #{condition['label']}</summary>
-            <pre><code>#{condition.to_yaml}</code></pre>
+        <details id="C-#{characteristic['id']}">
+        <summary>C-#{characteristic['id']} - #{characteristic['label']}</summary>
+        <pre><code>#{characteristic.to_yaml}</code></pre>
             <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=#{checksum}">Weblate translations</a>
         </details>
       HTML

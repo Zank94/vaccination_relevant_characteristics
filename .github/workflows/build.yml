@@ -2,8 +2,8 @@ name: Build and Deploy
 
 on:
   push:
-    tags:        
-      - '*' 
+    tags:
+      - "*"
 
 permissions:
   contents: write
@@ -26,7 +26,7 @@ jobs:
           bundle install
           mkdir -p ./build
           bundle exec ruby build.rb -s dictionary -f html > build/index.html
-          bundle exec ruby build.rb -s dictionary -f json > build/conditions.json
+          bundle exec ruby build.rb -s dictionary -f json > build/characteristics.json
           bundle exec ruby build.rb -s changelog -f md > build/changelog.md
           bundle exec ruby build.rb -s changelog -f html > build/changelog.html
       - name: Upload build artifacts

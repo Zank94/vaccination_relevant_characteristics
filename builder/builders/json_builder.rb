@@ -1,7 +1,7 @@
 require 'json'
 
 class JsonBuilder
-  def build(conditions, output: $stdout)
-    output.puts(conditions.to_json)
+  def build(characteristics, output: $stdout)
+    output.puts(characteristics.to_json)
   end
 end
