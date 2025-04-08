@@ -4,6 +4,7 @@ label: Nouvelle condition
 type: integer
 tags:
 - toto
+- tata
 codes:
 - nomenclature: Syadem
   code: "1234"
