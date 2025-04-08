@@ -1,0 +1,9 @@
+---
+id: 1239
+label: Nouvelle condition
+type: integer
+tags:
+- toto
+codes:
+- nomenclature: Syadem
+  code: "1234"
