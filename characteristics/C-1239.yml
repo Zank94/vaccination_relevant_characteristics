@@ -1,0 +1,10 @@
+---
+id: 1239
+label: New condition
+type: boolean
+tags:
+- test
+- lucas
+codes:
+- nomenclature: Code
+  code: "1234"
