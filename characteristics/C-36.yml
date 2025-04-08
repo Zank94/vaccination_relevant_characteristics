@@ -1,10 +1,12 @@
 ---
 id: 36
-label: Ablation ou non-fonctionnement de la rate
-type: boolean
+label: Ablation ou non-fonctionnement de la rate modified
+type: date
 tags:
 - Affection chronique
-- Asplénie
+- toto
 codes:
 - nomenclature: SYADEM
   code: ccc0ec23-a3ca-45a1-a0cd-8a00dc344b08
+- nomenclature: test
+  code: "1234"
