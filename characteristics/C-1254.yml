@@ -1,0 +1,9 @@
+---
+id: 1254
+label: new test
+type: date
+tags:
+- After enlistment
+codes:
+- nomenclature: syadem
+  code: uuid
