@@ -6,6 +6,13 @@
 **Author :** Lucas Sotty
 
 ### Changes
+
+## Version v0.0.4
+**Date :** 2026-04-08
+
+**Author :** Lucas Sotty
+
+### Changes
 - 3ffdde5 - Update C-1057.yml (Lucas Sotty)
 - 853f0fd - Merge branch 'test' into main (Mr. Test)
 - 6e83e66 - Update characteristic C-1168 (Mr. Test)
