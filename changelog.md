@@ -1,5 +1,19 @@
 # Changelog
 
+## Version v0.0.6
+**Date :** 2026-04-10
+
+**Author :** Lucas Sotty
+
+### Changes
+- fcd0d74 - Update characteristic C-909 (Lucas Sotty)
+- 3246aaa - Create characteristic C-1257 (Lucas Sotty)
+
+
+### Files
+- characteristics/C-1257.yml
+- characteristics/C-909.yml
+
 ## Version v0.0.5
 **Date :** 2026-04-10
 
@@ -1143,6 +1157,7 @@
 - characteristics/C-1254.yml
 - characteristics/C-1255.yml
 - characteristics/C-1256.yml
+- characteristics/C-1257.yml
 - characteristics/C-126.yml
 - characteristics/C-127.yml
 - characteristics/C-128.yml
