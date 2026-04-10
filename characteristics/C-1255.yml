@@ -1,7 +1,8 @@
 ---
 id: 1255
-label: New condition 2
+label: New condition new label
 type: boolean
 tags:
 - Australia
+- Exposure to biological agents?
 codes: []
