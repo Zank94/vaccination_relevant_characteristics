@@ -1,5 +1,19 @@
 # Changelog
 
+## Version v0.0.7
+**Date :** 2026-04-10
+
+**Author :** Lucas Sotty
+
+### Changes
+- cf0db92 - Ajout d'une condition (Lucas Sotty)
+- 9695ea7 - Update characteristic C-1255 (Lucas Sotty)
+
+
+### Files
+- characteristics/C-1255.yml
+- characteristics/C-1258.yml
+
 ## Version v0.0.6
 **Date :** 2026-04-10
 
@@ -1158,6 +1172,7 @@
 - characteristics/C-1255.yml
 - characteristics/C-1256.yml
 - characteristics/C-1257.yml
+- characteristics/C-1258.yml
 - characteristics/C-126.yml
 - characteristics/C-127.yml
 - characteristics/C-128.yml
