@@ -1,6 +1,6 @@
 ---
 id: 1164
-label: Hodgkin's disease
+label: Hodgkin's disease modified
 type: boolean
 tags:
 - Chronic condition
@@ -8,3 +8,5 @@ tags:
 codes:
 - nomenclature: SYADEM
   code: 49ba1833-92a2-46e3-9124-cf9d9015a0a2
+- nomenclature: Snowmed
+  code: "1234"
