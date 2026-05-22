@@ -4,12 +4,12 @@
 <body><div class="container"><h1>Characteristics dictionary</h1><table>
   <tr>
     <td><b>Version</b></td>
-    <td>v0.0.2-28-g52be909
+    <td>v0.0.2-29-gfc73cdc
 </td>
   </tr>
   <tr>
     <td><b>Id</td>
-    <td>52be909c0c795b755b26b4edd191cfbb10da2521</b></td>
+    <td>fc73cdc36845dd88f3bdd79e0fff566c84f430ad</b></td>
   </tr>
   <tr>
     <td><b>Author</b></td>
@@ -17,15 +17,15 @@
   </tr>
   <tr>
     <td><b>Date</b></td>
-    <td>Thu May 21 14:41:20 2026 +0200</td>
+    <td>Fri May 22 11:58:10 2026 +0200</td>
   </tr>
   <tr>
     <td><b>Message</b></td>
-    <td>Create characteristic C-1261</td>
+    <td>Regen data</td>
   </tr>
   <tr>
     <td><b>Diff</b></td>
-    <td><a href="https://github.com/Syadem/vaccination_profile/commit/52be909c0c795b755b26b4edd191cfbb10da2521">github</a></td>
+    <td><a href="https://github.com/Syadem/vaccination_profile/commit/fc73cdc36845dd88f3bdd79e0fff566c84f430ad">github</a></td>
   </tr>
 </table>
 <details id="C-100">
@@ -533,10 +533,10 @@ label_en: Comfortable living conditions
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=b1d8748b38ec883a">Weblate translations</a>
 </details>
 <details id="C-1029">
-<summary>C-1029 - Intermediate living conditions</summary>
+<summary>C-1029 - Date of last dengue infection</summary>
 <pre><code>---
 id: 1029
-label: Intermediate living conditions
+label: Date of last dengue infection
 type: date
 tags:
 - Medical history
@@ -1034,10 +1034,10 @@ label_en:
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=e93c587e0a0761b4">Weblate translations</a>
 </details>
 <details id="C-1057">
-<summary>C-1057 - Spine T-scoreTest</summary>
+<summary>C-1057 - Spine T-score</summary>
 <pre><code>---
 id: 1057
-label: Spine T-scoreTest
+label: Spine T-score
 type: float
 tags:
 - Additional examinations
@@ -1051,10 +1051,10 @@ label_en:
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=8be3c4878955a7c8">Weblate translations</a>
 </details>
 <details id="C-1058">
-<summary>C-1058 - T-score col cancer</summary>
+<summary>C-1058 - T-score col</summary>
 <pre><code>---
 id: 1058
-label: T-score col cancer
+label: T-score col
 type: float
 tags:
 - Additional examinations
@@ -2915,10 +2915,10 @@ label_en:
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=34a43ff1c10e9264">Weblate translations</a>
 </details>
 <details id="C-1164">
-<summary>C-1164 - Hodgkin's disease modified</summary>
+<summary>C-1164 - Hodgkin's disease</summary>
 <pre><code>---
 id: 1164
-label: Hodgkin's disease modified
+label: Hodgkin's disease
 type: boolean
 tags:
 - Chronic condition
@@ -2926,8 +2926,6 @@ tags:
 codes:
 - nomenclature: SYADEM
   code: 49ba1833-92a2-46e3-9124-cf9d9015a0a2
-- nomenclature: Snowmed
-  code: '1234'
 label_en:
 </code></pre>
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=5f7a139621795eab">Weblate translations</a>
@@ -2981,10 +2979,10 @@ label_en:
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=1f4079b67437943b">Weblate translations</a>
 </details>
 <details id="C-1168">
-<summary>C-1168 - Multiple Myeloma conflict</summary>
+<summary>C-1168 - Multiple Myeloma</summary>
 <pre><code>---
 id: 1168
-label: Multiple Myeloma conflict
+label: Multiple Myeloma
 type: boolean
 tags:
 - Chronic condition
@@ -4057,14 +4055,13 @@ label_en:
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=558e3742f59e8079">Weblate translations</a>
 </details>
 <details id="C-1228">
-<summary>C-1228 - Passenger</summary>
+<summary>C-1228 - Non-vulnerable passenger</summary>
 <pre><code>---
 id: 1228
-label: Passenger
+label: Non-vulnerable passenger
 type: boolean
 tags:
-- Profession
-- Staff working on a cruise ship
+- TRAVEL
 codes:
 - nomenclature: SYADEM
   code: 01c41b9e-a72d-4e3f-912b-b5a4f4f75e45
@@ -4522,74 +4519,100 @@ label_en:
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=723640f44ee7a497">Weblate translations</a>
 </details>
 <details id="C-1254">
-<summary>C-1254 - new test</summary>
+<summary>C-1254 - No history of measles</summary>
 <pre><code>---
 id: 1254
-label: new test
-type: date
+label: No history of measles
+type: boolean
 tags:
-- After enlistment
+- Medical history
+- Infectious diseases
 codes:
-- nomenclature: syadem
-  code: uuid
+- nomenclature: SYADEM
+  code: 0130ee03-d25f-49e3-bba3-e0c96001dfa9
 label_en:
 </code></pre>
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=773b78cd560854c2">Weblate translations</a>
 </details>
 <details id="C-1255">
-<summary>C-1255 - New condition new label</summary>
+<summary>C-1255 - Precancerous conditions of the cervix treated</summary>
 <pre><code>---
 id: 1255
-label: New condition new label
+label: Precancerous conditions of the cervix treated
 type: boolean
 tags:
-- Australia
-- Exposure to biological agents?
-codes: []
+- Chronic condition
+- Cancer
+codes:
+- nomenclature: SYADEM
+  code: 300e6050-231c-43a3-9705-91e2b4e25528
 label_en:
 </code></pre>
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=f78f7083ba64565c">Weblate translations</a>
 </details>
 <details id="C-1256">
-<summary>C-1256 - Test Lucas</summary>
+<summary>C-1256 - Poultry and fur farm employees</summary>
 <pre><code>---
 id: 1256
-label: Test Lucas
-type: integer
+label: Poultry and fur farm employees
+type: boolean
 tags:
-- In the public sector
+- Profession
+- Working with animals, agriculture, water, forests, and fishing
 codes:
-- nomenclature: Nomen
-  code: '1234'
+- nomenclature: SYADEM
+  code: a5ced0c7-5769-4c14-8def-8178cedf36b9
 label_en:
 </code></pre>
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=edbe0d5fa035d24d">Weblate translations</a>
 </details>
 <details id="C-1257">
-<summary>C-1257 - Hello world</summary>
+<summary>C-1257 - Haemolytic uraemic syndrome (HUS)</summary>
 <pre><code>---
 id: 1257
-label: Hello world
+label: Haemolytic uraemic syndrome (HUS)
 type: boolean
 tags:
-- Additional examinations
-codes: []
+- Chronic condition
+- Rare disease
+codes:
+- nomenclature: SYADEM
+  code: 9acea595-e927-4ec8-a226-ff3fb8fded0c
 label_en:
 </code></pre>
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=18776d83ff389152">Weblate translations</a>
 </details>
 <details id="C-1258">
-<summary>C-1258 - nouvelle condition</summary>
+<summary>C-1258 -  History of immunosuppressive treatment.</summary>
 <pre><code>---
 id: 1258
-label: nouvelle condition
+label: " History of immunosuppressive treatment."
 type: boolean
 tags:
-- Additional examinations
-codes: []
+- Treatments
+- Treatments affecting immunity
+codes:
+- nomenclature: SYADEM
+  code: 1027b189-4d1b-4b7f-aae9-733aa05b52ae
 label_en:
 </code></pre>
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=842ad905ecb27597">Weblate translations</a>
+</details>
+<details id="C-1259">
+<summary>C-1259 - Children in nursery school</summary>
+<pre><code>---
+id: 1259
+label: Children in nursery school
+type: boolean
+tags:
+- Living or housing conditions
+- Community living, residence, institution...
+codes:
+- nomenclature: SYADEM
+  code: 99a26358-2bf1-4b36-9e18-ffe9a7d7637b
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=49a128287ca86aa5">Weblate translations</a>
 </details>
 <details id="C-126">
 <summary>C-126 - Asthma (other than severe and under continuous treatment)</summary>
@@ -4610,33 +4633,164 @@ label_en: Asthma (other than severe and under continuous treatment)
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=2d2e061577a27a1f">Weblate translations</a>
 </details>
 <details id="C-1260">
-<summary>C-1260 - Test lucas</summary>
+<summary>C-1260 - Children in nursery</summary>
 <pre><code>---
 id: 1260
-label: Test lucas
-type: date
+label: Children in nursery
+type: boolean
 tags:
-- Chikungunya
-- Immune deficiency
+- Living or housing conditions
+- Community living, residence, institution...
 codes:
-- nomenclature: toto
-  code: '1234'
+- nomenclature: SYADEM
+  code: bf2738e9-579d-4983-9442-91562d79f99b
 label_en:
 </code></pre>
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=4d6e7d6f5d345eca">Weblate translations</a>
 </details>
 <details id="C-1261">
-<summary>C-1261 - nouvelle condition de lucas</summary>
+<summary>C-1261 - Accommodation in a dormitory</summary>
 <pre><code>---
 id: 1261
-label: nouvelle condition de lucas
-type: date
+label: Accommodation in a dormitory
+type: boolean
 tags:
-- COVID-19
-codes: []
+- Living or housing conditions
+- Community living, residence, institution...
+codes:
+- nomenclature: SYADEM
+  code: d14c0095-bc61-40f4-9fb0-f0dd95a8aa3a
 label_en:
 </code></pre>
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=de4da82ff73e93cd">Weblate translations</a>
+</details>
+<details id="C-1262">
+<summary>C-1262 - Accommodation in a university residence.</summary>
+<pre><code>---
+id: 1262
+label: Accommodation in a university residence.
+type: boolean
+tags:
+- Living or housing conditions
+- Community living, residence, institution...
+codes:
+- nomenclature: SYADEM
+  code: d9f1e857-f64a-4d71-8719-d5510e2c06c7
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=5a780664638b1391">Weblate translations</a>
+</details>
+<details id="C-1263">
+<summary>C-1263 - Housed in barracks</summary>
+<pre><code>---
+id: 1263
+label: Housed in barracks
+type: boolean
+tags:
+- Living or housing conditions
+- Community living, residence, institution...
+codes:
+- nomenclature: SYADEM
+  code: b81dc8d9-5a16-4df5-ac15-c9b1b119a36f
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=8dd1dd558bda87c4">Weblate translations</a>
+</details>
+<details id="C-1264">
+<summary>C-1264 - Close contact with a case of invasive meningococcal infection</summary>
+<pre><code>---
+id: 1264
+label: Close contact with a case of invasive meningococcal infection
+type: boolean
+tags:
+- Emergency situation
+- Contact with a case of invasive meningococcal infection
+codes:
+- nomenclature: SYADEM
+  code: 91dc22e4-d8cc-4a7b-ab1d-e866106ada2c
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=87f2d51049ef1cf4">Weblate translations</a>
+</details>
+<details id="C-1265">
+<summary>C-1265 - Working in a care establishment</summary>
+<pre><code>---
+id: 1265
+label: Working in a care establishment
+type: boolean
+tags:
+- Profession
+- Related to health or the medico-social field
+- Active professional
+- What place of practice?
+codes:
+- nomenclature: SYADEM
+  code: 8aac2947-ff2f-40dc-be77-ae942efc0581
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=127e524b089f108a">Weblate translations</a>
+</details>
+<details id="C-1266">
+<summary>C-1266 - Professionals exposed to the risk of contact with blood</summary>
+<pre><code>---
+id: 1266
+label: Professionals exposed to the risk of contact with blood
+type: boolean
+tags:
+- Profession
+- Other professions
+codes:
+- nomenclature: SYADEM
+  code: e68c0fbf-d58a-4215-99e2-37da3c72c188
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=336b00cbf1d5091f">Weblate translations</a>
+</details>
+<details id="C-1267">
+<summary>C-1267 - Vulnerable passenger</summary>
+<pre><code>---
+id: 1267
+label: Vulnerable passenger
+type: boolean
+tags:
+- TRAVEL
+codes:
+- nomenclature: SYADEM
+  code: ca50beae-5b65-4120-9c1b-a0b5b7442812
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=32261bca7a4d280f">Weblate translations</a>
+</details>
+<details id="C-1268">
+<summary>C-1268 - Unprotected sexual contact with a partner of unknown serostatus</summary>
+<pre><code>---
+id: 1268
+label: Unprotected sexual contact with a partner of unknown serostatus
+type: boolean
+tags:
+- Living or housing conditions
+- Risk factors concerning sexuality
+codes:
+- nomenclature: SYADEM
+  code: dee989e2-02fc-4bec-a4fa-0e8c3aed73d4
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=b71efa0b046029dd">Weblate translations</a>
+</details>
+<details id="C-1269">
+<summary>C-1269 - Exchange transfusion</summary>
+<pre><code>---
+id: 1269
+label: Exchange transfusion
+type: boolean
+tags:
+- Treatments
+codes:
+- nomenclature: SYADEM
+  code: cd87b2d2-ffe2-4353-8273-cd2e26b52658
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=9929798a699a83b2">Weblate translations</a>
 </details>
 <details id="C-127">
 <summary>C-127 - Mucoviscidosis</summary>
@@ -4656,6 +4810,167 @@ label_en: Mucoviscidosis
 </code></pre>
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=899415692bbb8d36">Weblate translations</a>
 </details>
+<details id="C-1270">
+<summary>C-1270 - Cardiopulmonary bypass</summary>
+<pre><code>---
+id: 1270
+label: Cardiopulmonary bypass
+type: boolean
+tags:
+- Chronic condition
+- Cardiology-Pulmonology
+- Cardiology
+codes:
+- nomenclature: SYADEM
+  code: 87f11066-7703-45bd-980e-602a1c8eb1e0
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=c9530af1702a6489">Weblate translations</a>
+</details>
+<details id="C-1271">
+<summary>C-1271 - Use of systemic retinoids</summary>
+<pre><code>---
+id: 1271
+label: Use of systemic retinoids
+type: boolean
+tags:
+- Treatments
+- Other treatments
+codes:
+- nomenclature: SYADEM
+  code: 12d76e0f-ede3-4824-8d21-968a684b2743
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=2607847b58b62c57">Weblate translations</a>
+</details>
+<details id="C-1272">
+<summary>C-1272 - History of seizures</summary>
+<pre><code>---
+id: 1272
+label: History of seizures
+type: boolean
+tags:
+- Chronic condition
+- Nervous and muscular system
+codes:
+- nomenclature: SYADEM
+  code: fbf74bd7-a3e3-401e-924d-410647772ba9
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=b9636f9214186636">Weblate translations</a>
+</details>
+<details id="C-1273">
+<summary>C-1273 - Severe liver failure</summary>
+<pre><code>---
+id: 1273
+label: Severe liver failure
+type: boolean
+tags:
+- Chronic condition
+- Liver
+codes:
+- nomenclature: SYADEM
+  code: 7f76fe5a-1229-45fb-8e49-7e8bcd673784
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=4357489386f6d816">Weblate translations</a>
+</details>
+<details id="C-1274">
+<summary>C-1274 - Valproic acid treatment</summary>
+<pre><code>---
+id: 1274
+label: Valproic acid treatment
+type: boolean
+tags:
+- Treatments
+- Other treatments
+codes:
+- nomenclature: SYADEM
+  code: '089d8ba8-fbe0-4c71-834f-2cf4b47a02c4'
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=bd14e6200b2453fa">Weblate translations</a>
+</details>
+<details id="C-1275">
+<summary>C-1275 - Practice scuba diving</summary>
+<pre><code>---
+id: 1275
+label: Practice scuba diving
+type: boolean
+tags:
+- Living or housing conditions
+- Others
+codes:
+- nomenclature: SYADEM
+  code: 3d925833-d725-4c61-8086-89c524eaf1bf
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=6338979c09149357">Weblate translations</a>
+</details>
+<details id="C-1276">
+<summary>C-1276 - Chronic arthralgia</summary>
+<pre><code>---
+id: 1276
+label: Chronic arthralgia
+type: boolean
+tags:
+- Chronic condition
+- Nervous and muscular system
+codes:
+- nomenclature: SYADEM
+  code: 5b962928-b0c4-44c4-8586-cd10cd35c0a0
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=75730b50ccf629f4">Weblate translations</a>
+</details>
+<details id="C-1277">
+<summary>C-1277 - Date of last CD4 test</summary>
+<pre><code>---
+id: 1277
+label: Date of last CD4 test
+type: date
+tags:
+- Laboratory tests
+- HIV
+codes:
+- nomenclature: SYADEM
+  code: 66d11f37-2e9b-4ed6-a05d-533ad8f42d26
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=2d4b548e57aa8b2">Weblate translations</a>
+</details>
+<details id="C-1278">
+<summary>C-1278 - Percentage of CD4 lymphocytes</summary>
+<pre><code>---
+id: 1278
+label: Percentage of CD4 lymphocytes
+type: integer
+tags:
+- Laboratory tests
+- HIV
+codes:
+- nomenclature: SYADEM
+  code: c4986bf7-b0b8-4192-b355-b1d7c5a59357
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=e35bf4daac730680">Weblate translations</a>
+</details>
+<details id="C-1279">
+<summary>C-1279 - Precancerous genital or anal lesion (grade 2/3)</summary>
+<pre><code>---
+id: 1279
+label: Precancerous genital or anal lesion (grade 2/3)
+type: boolean
+tags:
+- Chronic condition
+- Cancer
+codes:
+- nomenclature: SYADEM
+  code: eb9fd9aa-4971-458f-8313-40c3cd7dff1f
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=7123378eb1c5e830">Weblate translations</a>
+</details>
 <details id="C-128">
 <summary>C-128 - Bronchopulmonary dysplasia</summary>
 <pre><code>---
@@ -4674,6 +4989,175 @@ label_en: Bronchopulmonary dysplasia
 </code></pre>
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=a7d531c08c3c9ddb">Weblate translations</a>
 </details>
+<details id="C-1280">
+<summary>C-1280 - Cervical adenocarcinoma in situ</summary>
+<pre><code>---
+id: 1280
+label: Cervical adenocarcinoma in situ
+type: boolean
+tags:
+- Chronic condition
+- Cancer
+codes:
+- nomenclature: SYADEM
+  code: 38aa0597-760c-4dba-a0bc-ae360f9c990d
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=1832d7066618be4b">Weblate translations</a>
+</details>
+<details id="C-1281">
+<summary>C-1281 - High-grade cervical dysplasia</summary>
+<pre><code>---
+id: 1281
+label: High-grade cervical dysplasia
+type: boolean
+tags:
+- Chronic condition
+- Cancer
+codes:
+- nomenclature: SYADEM
+  code: 96c14b1f-5b79-4e51-a385-4b41ed1a0735
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=2a4b6ef89ec381d6">Weblate translations</a>
+</details>
+<details id="C-1282">
+<summary>C-1282 - Migrant from a country with moderate or high endemicity for hepatitis B</summary>
+<pre><code>---
+id: 1282
+label: Migrant from a country with moderate or high endemicity for hepatitis B
+type: boolean
+tags:
+- Living or housing conditions
+- Others
+codes:
+- nomenclature: SYADEM
+  code: 69915f08-9488-4e01-88c3-bd64c543ebc8
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=321a10f1fdde6b2a">Weblate translations</a>
+</details>
+<details id="C-1283">
+<summary>C-1283 - Nursery Staff</summary>
+<pre><code>---
+id: 1283
+label: Nursery Staff
+type: boolean
+tags:
+- Profession
+- Staff working on a cruise ship
+- Miscellaneous
+codes:
+- nomenclature: SYADEM
+  code: 8bd88fc5-20a2-44ce-856c-456d15f8a46d
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=7f206c9563c9d97f">Weblate translations</a>
+</details>
+<details id="C-1284">
+<summary>C-1284 - Date of last hepatitis C serology</summary>
+<pre><code>---
+id: 1284
+label: Date of last hepatitis C serology
+type: boolean
+tags:
+- Laboratory tests
+- Hepatitis C
+codes:
+- nomenclature: SYADEM
+  code: 51b0f070-e58f-440c-8300-269233f1a867
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=70e24f289b3e2dd8">Weblate translations</a>
+</details>
+<details id="C-1285">
+<summary>C-1285 - Positive anti-HCV antibodies</summary>
+<pre><code>---
+id: 1285
+label: Positive anti-HCV antibodies
+type: boolean
+tags:
+- Laboratory tests
+- Hepatitis C
+codes:
+- nomenclature: SYADEM
+  code: f1ff229e-9ba0-47ce-aeaf-c6656e6a30fe
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=8e12b1bf17710689">Weblate translations</a>
+</details>
+<details id="C-1286">
+<summary>C-1286 - Anti-HCV antibodies negative</summary>
+<pre><code>---
+id: 1286
+label: Anti-HCV antibodies negative
+type: boolean
+tags:
+- Laboratory tests
+- Hepatitis C
+codes:
+- nomenclature: SYADEM
+  code: dc232cc1-0403-4ba6-b67a-801a450b2377
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=7cc1cb30b62502c0">Weblate translations</a>
+</details>
+<details id="C-1287">
+<summary>C-1287 - Equivocal anti-HCV antibodies</summary>
+<pre><code>---
+id: 1287
+label: Equivocal anti-HCV antibodies
+type: boolean
+tags:
+- Laboratory tests
+- Hepatitis C
+codes:
+- nomenclature: SYADEM
+  code: 7df1dede-42d8-457c-b327-84c5abf01454
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=2fc78b6cf2295d2b">Weblate translations</a>
+</details>
+<details id="C-1288">
+<summary>C-1288 - Contact with a domestic animal living in a non-endemic area, without suspicious signs, without a vaccination certificate, and the animal is unavailable.</summary>
+<pre><code>---
+id: 1288
+label: Contact with a domestic animal living in a non-endemic area, without suspicious
+  signs, without a vaccination certificate, and the animal is unavailable.
+type: boolean
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+- Domestic animal (dog, cat, ferret)
+- Non-endemic zone
+- Without any suspicious signs
+codes:
+- nomenclature: SYADEM
+  code: f3b0ae08-23b7-47ae-afb7-5d490b584978
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=ea19b54ee2b96e73">Weblate translations</a>
+</details>
+<details id="C-1289">
+<summary>C-1289 - Contact with a domestic animal living in a non-endemic area, with suspicious signs (animal with abnormal, aggressive behavior)</summary>
+<pre><code>---
+id: 1289
+label: Contact with a domestic animal living in a non-endemic area, with suspicious
+  signs (animal with abnormal, aggressive behavior)
+type: boolean
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+- Domestic animal (dog, cat, ferret)
+- Non-endemic zone
+- With suspicious signs
+codes:
+- nomenclature: SYADEM
+  code: 91e9ae27-161b-4f8a-9599-12188cb7bac4
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=dfbbec4588f0f224">Weblate translations</a>
+</details>
 <details id="C-129">
 <summary>C-129 - Sexual relations with men</summary>
 <pre><code>---
@@ -4689,6 +5173,309 @@ codes:
 label_en: Sexual relations with men
 </code></pre>
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=32216c553191e2db">Weblate translations</a>
+</details>
+<details id="C-1290">
+<summary>C-1290 - Contact with a domestic animal living in an endemic area</summary>
+<pre><code>---
+id: 1290
+label: Contact with a domestic animal living in an endemic area
+type: boolean
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+- Domestic animal (dog, cat, ferret)
+- Endemic area
+codes:
+- nomenclature: SYADEM
+  code: a2a5d9c7-e19c-49e3-bca1-825ca56761a1
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=7dcadada503ab9b7">Weblate translations</a>
+</details>
+<details id="C-1291">
+<summary>C-1291 - Contact with a wild terrestrial mammal living in a non-endemic area, without any suspicious signs.</summary>
+<pre><code>---
+id: 1291
+label: Contact with a wild terrestrial mammal living in a non-endemic area, without
+  any suspicious signs.
+type: boolean
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+- Wild land mammals (fox, raccoon...)
+codes:
+- nomenclature: SYADEM
+  code: 2a541482-c989-42ef-81fb-865771002f09
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=c9d353f45e0af8f0">Weblate translations</a>
+</details>
+<details id="C-1292">
+<summary>C-1292 - Contact with a wild terrestrial mammal living in an endemic area, regardless of the animal's behavior, or living in a non-endemic area, with suspicious signs</summary>
+<pre><code>---
+id: 1292
+label: Contact with a wild terrestrial mammal living in an endemic area, regardless
+  of the animal's behavior, or living in a non-endemic area, with suspicious signs
+type: boolean
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+- Wild land mammals (fox, raccoon...)
+codes:
+- nomenclature: SYADEM
+  code: dd6eb069-5edd-48be-a426-09282f41a79e
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=5620c6b40b051d3e">Weblate translations</a>
+</details>
+<details id="C-1293">
+<summary>C-1293 - Contact with a monkey living in an endemic area</summary>
+<pre><code>---
+id: 1293
+label: Contact with a monkey living in an endemic area
+type: boolean
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+- Monkey
+codes:
+- nomenclature: SYADEM
+  code: 2c6c1c16-1aea-4035-a905-d4ec3f34ef8a
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=265cb907ae0d4dba">Weblate translations</a>
+</details>
+<details id="C-1294">
+<summary>C-1294 - Contact with a bat, regardless of its origin, even in the absence of visible lesions</summary>
+<pre><code>---
+id: 1294
+label: Contact with a bat, regardless of its origin, even in the absence of visible
+  lesions
+type: boolean
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+- Bat
+codes:
+- nomenclature: SYADEM
+  code: b61e39b7-67a0-4bcb-a7c5-199049047f21
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=5dbdcafeabeb660e">Weblate translations</a>
+</details>
+<details id="C-1295">
+<summary>C-1295 - Contact with a dead animal, regardless of its origin or vaccination status</summary>
+<pre><code>---
+id: 1295
+label: Contact with a dead animal, regardless of its origin or vaccination status
+type: boolean
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+- Dead animal
+codes:
+- nomenclature: SYADEM
+  code: df0b7653-e7ce-4a5f-8e51-1afcafc22798
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=ae8bebe154e62e1">Weblate translations</a>
+</details>
+<details id="C-1296">
+<summary>C-1296 - Date of last exposure to rabies (mandatory)</summary>
+<pre><code>---
+id: 1296
+label: Date of last exposure to rabies (mandatory)
+type: date
+tags:
+- Emergency situation
+- Suspected exposure to rabies
+codes:
+- nomenclature: SYADEM
+  code: 182f6469-e36e-4872-a0bf-74cc1e8e3de3
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=fe6702ea1d311299">Weblate translations</a>
+</details>
+<details id="C-1297">
+<summary>C-1297 - No allergies</summary>
+<pre><code>---
+id: 1297
+label: No allergies
+type: boolean
+tags:
+- Medical history
+- Allergies
+codes:
+- nomenclature: SYADEM
+  code: 3c6eb837-f5c4-4054-9fb1-1bf7860eb648
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=bdbd9e1b10b9eb98">Weblate translations</a>
+</details>
+<details id="C-1298">
+<summary>C-1298 - No infectious disease</summary>
+<pre><code>---
+id: 1298
+label: No infectious disease
+type: boolean
+tags:
+- Medical history
+- Infectious diseases
+codes:
+- nomenclature: SYADEM
+  code: b67cdfb0-a833-4aa4-b64e-7301f6e71894
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=dbc73d982b09ba6f">Weblate translations</a>
+</details>
+<details id="C-1299">
+<summary>C-1299 - No chronic condition</summary>
+<pre><code>---
+id: 1299
+label: No chronic condition
+type: boolean
+tags:
+- Chronic condition
+codes:
+- nomenclature: SYADEM
+  code: 3fb4e774-db7e-4a5b-9178-ca1723f1d114
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=8d1f3ea2317bd576">Weblate translations</a>
+</details>
+<details id="C-1300">
+<summary>C-1300 - No treatment</summary>
+<pre><code>---
+id: 1300
+label: No treatment
+type: boolean
+tags:
+- Treatments
+codes:
+- nomenclature: SYADEM
+  code: 42036c81-04da-49a9-85b0-b2615b260e5a
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=f0597ed67b06a057">Weblate translations</a>
+</details>
+<details id="C-1301">
+<summary>C-1301 - Prednisone or equivalent</summary>
+<pre><code>---
+id: 1301
+label: Prednisone or equivalent
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Corticosteroids
+codes:
+- nomenclature: SYADEM
+  code: e2a10e9a-395b-4979-917f-c7dd24123fd4
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=5f7710aa5932269c">Weblate translations</a>
+</details>
+<details id="C-1302">
+<summary>C-1302 - Mitoxantrone</summary>
+<pre><code>---
+id: 1302
+label: Mitoxantrone
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Anthracycline
+codes:
+- nomenclature: SYADEM
+  code: a78ba9d8-c80e-4430-90c1-9519d0047c33
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=49c08b595fae28cb">Weblate translations</a>
+</details>
+<details id="C-1303">
+<summary>C-1303 - Methotrexate</summary>
+<pre><code>---
+id: 1303
+label: Methotrexate
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Antimetabolites
+codes:
+- nomenclature: SYADEM
+  code: b06d08c1-d87c-4895-b2ea-77f89d3bf03e
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=9c34fb15d5b45780">Weblate translations</a>
+</details>
+<details id="C-1304">
+<summary>C-1304 - Azathioprine</summary>
+<pre><code>---
+id: 1304
+label: Azathioprine
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Antimetabolites
+codes:
+- nomenclature: SYADEM
+  code: c6b020ec-3cc3-43c8-b9b9-d4c4e22774a0
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=154e25b241afc768">Weblate translations</a>
+</details>
+<details id="C-1305">
+<summary>C-1305 - Mycophenolate mofetil</summary>
+<pre><code>---
+id: 1305
+label: Mycophenolate mofetil
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Antimetabolites
+codes:
+- nomenclature: SYADEM
+  code: be326920-528c-4f1d-bfcf-e7eda556c16c
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=26b4ebf94e1a2a17">Weblate translations</a>
+</details>
+<details id="C-1306">
+<summary>C-1306 - Melphalan</summary>
+<pre><code>---
+id: 1306
+label: Melphalan
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Alkylating agents
+codes:
+- nomenclature: SYADEM
+  code: ab2689e2-ad8b-4f62-9448-429321833c57
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=5e7d8cfc319bb0f5">Weblate translations</a>
+</details>
+<details id="C-1307">
+<summary>C-1307 - Busulfan</summary>
+<pre><code>---
+id: 1307
+label: Busulfan
+type: boolean
+tags:
+- Treatments
+- Treatments affecting immunity
+- Alkylating agents
+codes:
+- nomenclature: SYADEM
+  code: 0fd6a370-787e-4762-bb3b-b1ff9427ec5e
+label_en:
+</code></pre>
+    <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=cb22161d505b04b1">Weblate translations</a>
 </details>
 <details id="C-139">
 <summary>C-139 - Military with conditioning for a mission OM-OPEX-Embarkation</summary>
@@ -5066,10 +5853,10 @@ label_en: Negative rubella serology
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=68089c561c35974c">Weblate translations</a>
 </details>
 <details id="C-164">
-<summary>C-164 - Positive rubella serology</summary>
+<summary>C-164 - Positive rubella serology (IgG)</summary>
 <pre><code>---
 id: 164
-label: Positive rubella serology
+label: Positive rubella serology (IgG)
 type: boolean
 tags:
 - Laboratory tests
@@ -7812,15 +8599,18 @@ label_en: 'Direct contact in a rabies-free country with other mammals: Wildlife,
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=38fe96c49b27d1f0">Weblate translations</a>
 </details>
 <details id="C-506">
-<summary>C-506 - Dead animal</summary>
+<summary>C-506 - Contact with a domestic animal living in a non-endemic area, without suspicious signs, with a rabies vaccination certificate</summary>
 <pre><code>---
 id: 506
-label: Dead animal
+label: Contact with a domestic animal living in a non-endemic area, without suspicious
+  signs, with a rabies vaccination certificate
 type: boolean
 tags:
 - Emergency situation
 - Suspected exposure to rabies
-- Status of the animal (alive, dead, missing)
+- Domestic animal (dog, cat, ferret)
+- Non-endemic zone
+- Without any suspicious signs
 codes:
 - nomenclature: SYADEM
   code: 0ee8edb4-fc5c-4d30-9c39-94775f8b074c
@@ -7882,15 +8672,18 @@ label_en: Positive biological diagnosis of rabies
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=7441edb3c81de822">Weblate translations</a>
 </details>
 <details id="C-513">
-<summary>C-513 - Missing animal</summary>
+<summary>C-513 - Contact with a domestic animal living in a non-endemic area, without suspicious signs, without a vaccination certificate, and the animal is available</summary>
 <pre><code>---
 id: 513
-label: Missing animal
+label: Contact with a domestic animal living in a non-endemic area, without suspicious
+  signs, without a vaccination certificate, and the animal is available
 type: boolean
 tags:
 - Emergency situation
 - Suspected exposure to rabies
-- Status of the animal (alive, dead, missing)
+- Domestic animal (dog, cat, ferret)
+- Non-endemic zone
+- Without any suspicious signs
 codes:
 - nomenclature: SYADEM
   code: ea4b2fae-7eec-49ac-aadf-40a2f911e661
@@ -11449,10 +12242,10 @@ label_en: Resides in a migrant workers' home
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=371aa3c7346abbbc">Weblate translations</a>
 </details>
 <details id="C-909">
-<summary>C-909 - Chronic poly-pathology 356</summary>
+<summary>C-909 - Chronic poly-pathology</summary>
 <pre><code>---
 id: 909
-label: Chronic poly-pathology 356
+label: Chronic poly-pathology
 type: boolean
 tags:
 - Chronic condition
@@ -11980,10 +12773,10 @@ label_en: National education professional in contact with children
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=90a4cb15e3c57e2">Weblate translations</a>
 </details>
 <details id="C-950">
-<summary>C-950 - Condition not used free</summary>
+<summary>C-950 - Coming from a country at risk of yellow fever transmission</summary>
 <pre><code>---
 id: 950
-label: Condition not used free
+label: Coming from a country at risk of yellow fever transmission
 type: boolean
 tags:
 - TRAVEL
@@ -12128,10 +12921,10 @@ label_en: Hypertension, complicated or not
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=f1da11ccccaabddb">Weblate translations</a>
 </details>
 <details id="C-962">
-<summary>C-962 - Weight</summary>
+<summary>C-962 - Weight (kg)</summary>
 <pre><code>---
 id: 962
-label: Weight
+label: Weight (kg)
 type: integer
 tags:
 - General information
@@ -12144,10 +12937,10 @@ label_en: Weight
     <a href="https://hosted.weblate.org/translate/syadem-translations/vcds_conditions/en/?checksum=6c391908daa7bd2e">Weblate translations</a>
 </details>
 <details id="C-963">
-<summary>C-963 - Height</summary>
+<summary>C-963 - Height (cm)</summary>
 <pre><code>---
 id: 963
-label: Height
+label: Height (cm)
 type: integer
 tags:
 - General information
