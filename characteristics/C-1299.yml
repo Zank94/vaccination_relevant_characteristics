@@ -1,9 +1,11 @@
 ---
 id: 1299
-label: No chronic condition
+label: No chronic condition modified
 type: boolean
 tags:
 - Chronic condition
 codes:
 - nomenclature: SYADEM
   code: 3fb4e774-db7e-4a5b-9178-ca1723f1d114
+- nomenclature: Snowmed
+  code: "1234"
