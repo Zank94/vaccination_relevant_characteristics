@@ -1,5 +1,21 @@
 # Changelog
 
+## Version v0.0.11
+**Date :** 2026-05-22
+
+**Author :** Lucas Sotty
+
+### Changes
+- aea82ee - Create characteristic C-1308 la condition cancer (Lucas Sotty)
+- 7a68d33 - Update characteristic C-1299 (Lucas Sotty)
+
+
+### Files
+- characteristics/C-1299.yml
+- characteristics/C-1308.yml
+- embeddings/C-1299.json
+- embeddings/C-1308.json
+
 ## Version v0.0.10
 **Date :** 2026-05-22
 
@@ -3888,6 +3904,7 @@
 - characteristics/C-1305.yml
 - characteristics/C-1306.yml
 - characteristics/C-1307.yml
+- characteristics/C-1308.yml
 - characteristics/C-139.yml
 - characteristics/C-14.yml
 - characteristics/C-140.yml
@@ -4699,6 +4716,7 @@
 - embeddings/C-1305.json
 - embeddings/C-1306.json
 - embeddings/C-1307.json
+- embeddings/C-1308.json
 - embeddings/C-139.json
 - embeddings/C-14.json
 - embeddings/C-140.json
