@@ -1,5 +1,18 @@
 # Changelog
 
+## Version v0.0.14
+**Date :** 2026-05-29
+
+**Author :** Lucas Sotty
+
+### Changes
+- 11ce433 - Publish flow (Lucas Sotty)
+
+
+### Files
+- .github/workflows/release-db.yml
+- scripts/publish.rb
+
 ## Version v0.0.13
 **Date :** 2026-05-29
 
