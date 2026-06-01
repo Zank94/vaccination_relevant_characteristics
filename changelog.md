@@ -1,5 +1,17 @@
 # Changelog
 
+## Version v0.0.15
+**Date :** 2026-06-01
+
+**Author :** Lucas Sotty
+
+### Changes
+- 17e7673 - Public visiblity on bucket (Lucas Sotty)
+
+
+### Files
+- .github/workflows/release-db.yml
+
 ## Version v0.0.14
 **Date :** 2026-05-29
 
