@@ -1,5 +1,17 @@
 # Changelog
 
+## Version v0.0.17
+**Date :** 2026-06-09
+
+**Author :** Lucas Sotty
+
+### Changes
+- c085163 - Fix condition types (Lucas Sotty)
+
+
+### Files
+- scripts/publish.rb
+
 ## Version v0.0.16
 **Date :** 2026-06-02
 
