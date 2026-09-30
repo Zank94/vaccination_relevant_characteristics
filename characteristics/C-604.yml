@@ -11,3 +11,5 @@ tags:
 codes:
 - nomenclature: SYADEM
   code: 5b089eb5-0f00-429b-a2bd-06de1384cf83
+- nomenclature: TEST
+  code: "1234"
