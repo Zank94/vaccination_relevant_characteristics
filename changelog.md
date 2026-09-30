@@ -1,5 +1,17 @@
 # Changelog
 
+## Version v0.0.20
+**Date :** 2026-09-30
+
+**Author :** Lucas Sotty
+
+### Changes
+- f617e7a - Update characteristic C-604 (Lucas Sotty)
+
+
+### Files
+- characteristics/C-604.yml
+
 ## Version v0.0.19
 **Date :** 2026-09-29
 
