@@ -1,5 +1,28 @@
 # Changelog
 
+## Version v0.0.23
+**Date :** 2026-10-05
+
+**Author :** Lucas Sotty
+
+### Changes
+- 37443af - Fixed gh pages build (Lucas Sotty)
+
+
+### Files
+- builder/builders/html_builder.rb
+
+## Version v0.0.22
+**Date :** 2026-10-05
+
+**Author :** Lucas Sotty
+
+### Changes
+- e2553d3 - Revert "Replaced deprecated by deprecated_on" (Lucas Sotty)
+- b7712a8 - Replaced deprecated by deprecated_on (Lucas Sotty)
+
+
+
 ## Version v0.0.21
 **Date :** 2026-10-02
 
@@ -11886,6 +11909,7 @@
 - .github/workflows/release-db.yml
 - Gemfile
 - Gemfile.lock
+- builder/builders/html_builder.rb
 - characteristics/C-100.yml
 - characteristics/C-1000.yml
 - characteristics/C-1001.yml
