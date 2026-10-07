@@ -1,0 +1,10 @@
+---
+id: 1414
+label: smoking
+description:
+type: boolean
+deprecated: false
+tags: []
+codes:
+- nomenclature: SYADEM
+  code: 8c739b65-8fe8-4099-b40b-f7a0e1e696a8
